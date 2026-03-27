@@ -1,35 +1,33 @@
-# <p align="center">⚡ Abhinav Deval (Abhi)</p>
+# <p align="left">Abhinav Deval</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Founder+%26+CEO+@Vibrodo;Full+Stack+Developer;ECE+@IIIT+Kalyani+'29" alt="Typing SVG" />
-</p>
-
----
-
-### **🚀 Vision**
-> *"Architecture over code. Vision over features."*
-Building **Vibrodo** — redefining the music streaming experience through scalable architecture and 8D audio immersion.
+### **Founder & CEO @Vibrodo**
+*Building the future of immersive music streaming.*
 
 ---
 
-### **🛠️ Tech Stack**
+### **Overview**
+I am a Full Stack Developer and Entrepreneur specialized in building scalable digital architectures. Currently, I am leading **Vibrodo**, focusing on 8D audio integration and seamless user experiences for the next generation of listeners.
+
+**Current Pursuit:** ECE @IIIT Kalyani '29
+
+---
+
+### **Core Stack**
+> **Backend & Systems:** Node.js • Express • TypeScript • C++  
+> **Frontend & Design:** React • Tailwind CSS • UI/UX Strategy  
+> **Data Architecture:** MongoDB • Firebase • System Scaling
+
+---
+
+### **Digital Footprint**
 <p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhinavkdeval08-design&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&bg_color=0D1117" width="400" />
 </p>
 
 ---
 
-
-
-### **🌐 Connect**
-<p align="left">
-  <a href="https://www.linkedin.com/in/abhinav-deval-549b6438b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:abhinavkdeval08@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
+### **Connect**
+[LinkedIn](https://www.linkedin.com/in/abhinav-deval-549b6438b/) • [Vibrodo](https://vibrodo.com) • [Email](mailto:abhinavkdeval08@gmail.com)
 
 ---
-<p align="right">🦁 <i>Pathfinder at heart. Founder by choice.</i></p>
+<p align="right"><i>"Architecture over code. Vision over features."</i></p>

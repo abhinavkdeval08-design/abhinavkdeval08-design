@@ -1,4 +1,4 @@
-# <p align="center">⚡ Abhinav Deval (Avenue)</p>
+# <p align="center">⚡ Abhinav Deval (Abhi)</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Founder+%26+CEO+@Vibrodo;Full+Stack+Developer;ECE+@IIIT+Kalyani+'29" alt="Typing SVG" />

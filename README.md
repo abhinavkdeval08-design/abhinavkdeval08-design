@@ -9,7 +9,7 @@
 ### 🚀 About
 
 I build fast, clean and scalable experiences across mobile and backend.  
-Currently leading **Vibrodo** with a small team of 5, working on a premium music experience with modern audio tech.
+Currently leading **Vibrodo** with a team of 6, working on a premium music experience with modern audio tech.
 
 ---
 

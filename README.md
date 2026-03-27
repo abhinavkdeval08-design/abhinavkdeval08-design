@@ -23,13 +23,7 @@ Building **Vibrodo** — redefining the music streaming experience through scala
 
 ---
 
-### **📊 Technical Footprint**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinavkdeval08-design&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavkdeval08-design&layout=compact&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff" width="40%" />
-</p>
 
----
 
 ### **🌐 Connect**
 <p align="left">

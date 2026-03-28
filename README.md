@@ -1,15 +1,16 @@
-# Abhinav Deval (Abhi..) 👋
+# Abhinav Deval (Abhi) 👋
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&left=true&vCenter=true&width=480&lines=Founder+%40+Vibrodo;Full+Stack+Developer;ECE+%40+IIIT+Kalyani+'29" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&left=true&vCenter=true&width=480&lines=Founder+@+Vibrodo+%F0%9F%8E%A7;Full+Stack+Developer;ECE+%40+IIIT+Kalyani+'29" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About
 
-I build fast, clean and scalable experiences across mobile and backend.  
-Currently leading **Vibrodo** with a team of 6, working on a premium music experience with modern audio tech.
+I build **performance-focused mobile apps and scalable backend systems**.
+
+Currently building **Vibrodo 🎧**, a modern music streaming app, where I’m leading development and working on smooth UI, fast APIs, and real-world product features.
 
 ---
 
@@ -29,11 +30,30 @@ Currently leading **Vibrodo** with a team of 6, working on a premium music exper
 
 ---
 
-### 🎧 What I’m Working On
+### 🎧 What I’m Building
 
-- Vibrodo – a modern music app with smooth UI and smart audio features  
-- Performance-focused mobile experiences using React Native  
-- Scalable Node.js backends with clean API design
+- **Vibrodo** — Music streaming app with clean UI and scalable architecture  
+- **Demo Grocery Store App** — React Native app for ordering via WhatsApp (no backend required)  
+- Backend systems using **Node.js** with focus on API performance  
+
+---
+
+### 🔥 Featured Work
+
+#### 🛒 Demo Grocery Store App
+- Browse products, add to cart, and place orders via WhatsApp  
+- Designed for small businesses without complex systems  
+- Built using React Native + Linking API  
+
+👉 *(Check pinned repositories for code & demo)*
+
+---
+
+### 🌱 Currently
+
+- Improving backend architecture and API design  
+- Building real-world projects instead of just tutorials  
+- Preparing for open source contributions  
 
 ---
 
@@ -49,4 +69,6 @@ Currently leading **Vibrodo** with a team of 6, working on a premium music exper
   </a>
 </p>
 
-<p align="right">🦁 <i>Pathfinder at heart. Founder by choice.</i></p>
+---
+
+<p align="right">⚡ <i>Builder mindset. Learning by shipping.</i></p>

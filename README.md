@@ -1,7 +1,7 @@
 # Abhinav Deval (Abhi..) 👋
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&left=true&vCenter=true&width=480&lines=Founder+%26+CEO+%40+Vibrodo;Full+Stack+Developer;ECE+%40+IIIT+Kalyani+'29" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&left=true&vCenter=true&width=480&lines=Founder+%40+Vibrodo;Full+Stack+Developer;ECE+%40+IIIT+Kalyani+'29" alt="Typing SVG" />
 </p>
 
 ---

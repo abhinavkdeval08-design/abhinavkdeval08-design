@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Abhinav Deval (Abhi) 👋</h1>
+<h1 align="center">Hii there, I'm Abhinav Deval (Abhi) 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Building+@+Vibrodo+%F0%9F%8E%A7;ECE+at+IIIT+Kalyani+'29;Competitive+Programmer;Full+Stack+Developer" alt="Typing SVG" />

@@ -9,11 +9,11 @@
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhinav-deval-549b6430b/">
+  <a href="https://www.linkedin.com/in/abhinavdeval/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://abhinav-deval-437udly.gamma.site/">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00D4FF&border=00D4FF" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=abhinavkdeval08-design&label=Views&color=00D4FF&style=for-the-badge" alt="Profile Views" />
 </p>

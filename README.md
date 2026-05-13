@@ -51,7 +51,7 @@ I am a software engineer and builder passionate about **low-latency systems**, *
 ---
 
 <div align="center">
-  <h2>⚡ Abhinav's Engineering Metrics</h2>
+  <h2>⚡ My Engineering Metrics</h2>
   <p><i>Code the vision. Ship the product.</i></p>
   <br/>
   

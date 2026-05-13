@@ -44,17 +44,19 @@ I am a software engineer and builder passionate about **low-latency systems**, *
 
 | 🚀 Project | 📖 Description | 🛠️ Tech Stack |
 | :--- | :--- | :--- |
-| **[Vibrodo](https://github.com/abhinavkdeval08-design/Vibrodo)** | A next-generation consumer audio platform focused on high-fidelity delivery, complex data pipelines, and a seamless cross-platform user experience. | `React Native` `Node.js` `MongoDB` |
+| **[Vibrodo](https://github.com/abhinavkdeval08-design/Vibrodo)** | A next-generation consumer audio platform focused on high-fidelity delivery, complex data pipelines, and a seamless cross-platform user experience. | `React Native` `Node.js` `express.js` `MongoDB` |
 | **[Demo Grocery Engine](https://github.com/abhinavkdeval08-design/Demo-Grocery-Store)** | High-performance commerce engine engineered for local businesses with direct WhatsApp Linking API integration for instant order processing. | `React Native` `JavaScript` |
 | **[CP Vault](https://github.com/abhinavkdeval08-design/codeforce_Solutions)** | A centralized vault of algorithmic solutions focusing on extreme time/space optimization. Pushing towards Pupil rating on Codeforces. | `C++20` `GCC 13` `DSA` |
 
 ---
 
-### 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavkdeval08-design&theme=dark&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=C9D1D9&statlet=C9D1D9" height="175" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <h2>⚡ Abhinav's Engineering Metrics</h2>
+  <p><i>Code the vision. Ship the product.</i></p>
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavkdeval08-design&theme=dark&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=C9D1D9&statlet=C9D1D9" height="175" alt="Abhinav's GitHub Streak" />
+</div>
 
 
 ---

@@ -45,7 +45,7 @@ I am a software engineer and builder passionate about **low-latency systems**, *
 | 🚀 Project | 📖 Description | 🛠️ Tech Stack |
 | :--- | :--- | :--- |
 | **[Vibrodo](https://github.com/abhinavkdeval08-design/Vibrodo)** | A next-generation consumer audio platform focused on high-fidelity delivery, complex data pipelines, and a seamless cross-platform user experience. | `React Native` `Node.js` `express.js` `MongoDB` |
-| **[PiperChat](https://github.com/abhinavkdeval08-design/PiperChat01)** | Real-time scalable chat architecture with specialized MongoDB refactoring for high-frequency messaging. | `Socket.io` `Vite` `Express` |
+| **[PiperChat](https://github.com/abhinavkdeval08-design/PiperChat01)** | Real-time scalable chat architecture with specialized MongoDB refactoring for high-frequency messaging. | `Socket.io` `Vite` `Express` `GSSoC Repo`|
 | **[Demo Grocery Engine](https://github.com/abhinavkdeval08-design/Demo-Grocery-Store)** | High-performance commerce engine engineered for local businesses with direct WhatsApp Linking API integration for instant order processing. | `React Native` `JavaScript` |
 
 ---

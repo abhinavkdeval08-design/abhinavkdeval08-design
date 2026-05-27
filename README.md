@@ -15,6 +15,9 @@
   <a href="https://abhinav-deval-437udly.gamma.site/">
     <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
+  <a href="mailto:abhinavdeval@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=abhinavkdeval08-design&label=Views&color=00D4FF&style=for-the-badge" alt="Profile Views" />
 </p>
 
@@ -25,7 +28,7 @@
 I am a software engineer and builder passionate about **low-latency systems**, **audio streaming tech**, and **open-source development**. Currently pursuing **Electronics and Communication Engineering**, I bridge the gap between core hardware logic and high-fidelity user experiences. 
 
 * 🏢 **Building:** Next-gen audio platforms at **Vibrodo**.
-* 🌱 **Learning:** Advanced Data Structures, eBPF, and System Architecture.
+* 🌱 **Learning:** Advanced Data Structures, C++ Logic (Popcount & Bitwise Magic), and System Architecture.
 * 🚀 **Contributing:** Actively crushing issues in **GSSoC '26** (Full Stack & Systems).
 
 ---
@@ -34,7 +37,7 @@ I am a software engineer and builder passionate about **low-latency systems**, *
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,c,cpp,linux,git,github,postman&perline=6" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,c,cpp,linux,git,github,postman&perline=12" />
   </a>
 </p>
 
@@ -44,22 +47,24 @@ I am a software engineer and builder passionate about **low-latency systems**, *
 
 | 🚀 Project | 📖 Description | 🛠️ Tech Stack |
 | :--- | :--- | :--- |
-| **[Vibrodo](https://github.com/abhinavkdeval08-design/Vibrodo)** | A next-generation consumer audio platform focused on high-fidelity delivery, complex data pipelines, and a seamless cross-platform user experience. | `React Native` `Node.js` `express.js` `MongoDB` |
-| **[PiperChat](https://github.com/abhinavkdeval08-design/PiperChat01)** | Real-time scalable chat architecture with specialized MongoDB refactoring for high-frequency messaging. | `Socket.io` `Vite` `Express` `GSSoC Repo`|
-| **[Demo Grocery Engine](https://github.com/abhinavkdeval08-design/Demo-Grocery-Store)** | High-performance commerce engine engineered for local businesses with direct WhatsApp Linking API integration for instant order processing. | `React Native` `JavaScript` |
+| **[Vibrodo](https://github.com/abhinavkdeval08-design/Vibrodo)** | A next-generation consumer audio platform focused on high-fidelity delivery, complex data pipelines, and a seamless cross-platform user experience. | `React Native` `Node.js` `Express` `MongoDB` |
+| **[PiperChat](https://github.com/abhinavkdeval08-design/PiperChat01)** | Real-time scalable chat architecture with specialized MongoDB refactoring for high-frequency messaging. | `Socket.io` `Vite` `Express` `GSSoC`|
+| **[Demo Grocery Engine](https://github.com/abhinavkdeval08-design/Demo-Grocery-Store)** | High-performance commerce engine engineered for local businesses with direct WhatsApp API integration. | `React Native` `JavaScript` |
 
 ---
 
-<div align="center">
-  <h2>⚡ My Engineering Metrics</h2>
-  <p><i>Code the vision. Ship the product.</i></p>
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavkdeval08-design&theme=dark&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=C9D1D9&statlet=C9D1D9" height="175" alt="Abhinav's GitHub Streak" />
-  
-</div>
+### 📊 GitHub Engineering Metrics
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=abhinavkdeval08-design&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D4FF&icon_color=00D4FF" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavkdeval08-design&theme=tokyonight&hide_border=true&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abhinavkdeval08-design&layout=compact&theme=tokyonight&hide_border=true&title_color=00D4FF" />
+</p>
 
 ---
 
-<p align="center"><i>"Code the vision. Ship the product."</i></p>
+
+<h3 align="center"><i>"Code the vision. Ship the product."</i></h3>

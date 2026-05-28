@@ -25,10 +25,10 @@
 
 ### ⚡ The Engineering Vision
 
-I am a software engineer and builder passionate about **low-latency systems**, **audio streaming tech**, and **open-source development**. Currently pursuing **Electronics and Communication Engineering**, I bridge the gap between core hardware logic and high-fidelity user experiences. 
+I am a aspiring software engineer and builder passionate about **low-latency systems**, **audio streaming tech**, and **open-source development**. Currently pursuing **Electronics and Communication Engineering**, I bridge the gap between core hardware logic and high-fidelity user experiences. 
 
 * 🏢 **Building:** Next-gen audio platforms at **Vibrodo**.
-* 🌱 **Learning:** Advanced Data Structures, C++ Logic (Popcount & Bitwise Magic), and System Architecture.
+* 🌱 **Learning:** Advanced Data Structures, C++ Logic, and System Architecture.
 * 🚀 **Contributing:** Actively crushing issues in **GSSoC '26** (Full Stack & Systems).
 
 ---

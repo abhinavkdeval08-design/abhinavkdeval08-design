@@ -48,23 +48,24 @@ I am a software engineer and builder passionate about **low-latency systems**, *
 | 🚀 Project | 📖 Description | 🛠️ Tech Stack |
 | :--- | :--- | :--- |
 | **[Vibrodo](https://github.com/abhinavkdeval08-design/Vibrodo)** | A next-generation consumer audio platform focused on high-fidelity delivery, complex data pipelines, and a seamless cross-platform user experience. | `React Native` `Node.js` `Express` `MongoDB` |
-| **[PiperChat](https://github.com/abhinavkdeval08-design/PiperChat01)** | Real-time scalable chat architecture with specialized MongoDB refactoring for high-frequency messaging. | `Socket.io` `Vite` `Express` `GSSoC`|
+| **[PiperChat](https://github.com/abhinavkdeval08-design/PiperChat01)** | Real-time scalable chat architecture with specialized MongoDB refactoring for high-frequency messaging. (GSSoC repo) | `Socket.io` `Vite` `Express` `GSSoC`|
 | **[Demo Grocery Engine](https://github.com/abhinavkdeval08-design/Demo-Grocery-Store)** | High-performance commerce engine engineered for local businesses with direct WhatsApp API integration. | `React Native` `JavaScript` |
 
 ---
 
-### 📊 GitHub Engineering Metrics
+### 📊 GitHub & Problem Solving Metrics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=abhinavkdeval08-design&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D4FF&icon_color=00D4FF" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavkdeval08-design&theme=tokyonight&hide_border=true&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=abhinavkdeval08-design&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D4FF&icon_color=00D4FF" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavkdeval08-design&theme=tokyonight&hide_border=true&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abhinavkdeval08-design&layout=compact&theme=tokyonight&hide_border=true&title_color=00D4FF" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abhinavkdeval08-design&layout=compact&theme=tokyonight&hide_border=true&title_color=00D4FF" alt="Top Languages" />
+  <img height="165" src="https://leetcard.jacoblin.cool/abhinav_deval07?theme=tokyonight&font=Fira%20Code&ext=activity&hide_border=true" alt="LeetCode Stats" />
 </p>
+
 
 ---
-
 
 <h3 align="center"><i>"Code the vision. Ship the product."</i></h3>

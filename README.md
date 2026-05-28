@@ -62,9 +62,11 @@ I am a software engineer and builder passionate about **low-latency systems**, *
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abhinavkdeval08-design&layout=compact&theme=tokyonight&hide_border=true&title_color=00D4FF" alt="Top Languages" />
-  <img height="165" src="https://leetcard.jacoblin.cool/abhinav_deval07?theme=tokyonight&font=Fira%20Code&ext=activity&hide_border=true" alt="LeetCode Stats" />
 </p>
 
+<p align="center">
+  <img width="400" src="https://leetcard.jacoblin.cool/abhinav_deval07?theme=tokyonight&font=Fira%20Code&ext=activity&hide_border=true" alt="LeetCode Stats" />
+</p>
 
 ---
 

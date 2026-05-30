@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0f1e,50:0d1b2e,100:0a1628&height=200&section=header&text=Abhinav%20Deval&fontSize=52&fontAlignY=45&fontColor=ffffff&desc=Builder%20%E2%80%A2%20Innovator%20%E2%80%A2%20Open-Source%20Contributor&descAlignY=68&descAlign=50&descSize=16&stroke=00D4FF&strokeWidth=2" />
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:020818,30:0a1628,60:0d1f3c,100:051020&height=220&section=header&text=Abhinav%20Deval&fontSize=58&fontAlignY=38&fontColor=ffffff&desc=Founder%20%40%20Vibrodo%20%E2%80%A2%20Builder%20%E2%80%A2%20Open-Source%20%E2%80%A2%20ECE%20%2729&descAlignY=60&descAlign=50&descSize=15&stroke=00D4FF&strokeWidth=2&animation=fadeIn" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=620&lines=Building+%40+Vibrodo+%F0%9F%8E%A7;ECE+%40+IIIT+Kalyani+%2729;GSSoC+%2726+%7C+Rank+%23188+%2F+43%2C539+%F0%9F%94%A5;Top+1%25+Open+Source+Contributor;Competitive+Programmer+%E2%9A%94%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=17&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Building+%40+Vibrodo+%F0%9F%8E%A7+%7C+ECE+%40+IIIT+Kalyani+'29;GSSoC+'26+%7C+Rank+%23188+%2F+43%2C539+%E2%80%94+Top+1%25+%F0%9F%94%A5;GFG+Campus+Mantri+%7C+All+India+Rank+70+%2F+2500+%F0%9F%8F%86;Competitive+Programmer+%E2%9A%94%EF%B8%8F+%7C+Low-Latency+Systems)](https://git.io/typing-svg)
 
 <br/>
 
@@ -17,87 +17,88 @@
 
 ---
 
-## ⚡ The Engineering Vision
+## ⚡ About Me
 
-> *Aspiring software engineer passionate about **low-latency systems**, **audio streaming tech**, and **open-source development**. Pursuing ECE, bridging core hardware logic with high-fidelity user experiences.*
+> *ECE undergrad, Founder of Vibrodo, and open-source contributor obsessed with **low-latency systems**, **audio tech**, and **scalable architecture**. I don't just build apps — I build systems that last.*
 
 <br/>
 
 <table>
   <tr>
     <td width="50%">
-      <h3>🎧 Building @ Vibrodo</h3>
-      <p>Next-gen audio platform focused on high-fidelity delivery, complex data pipelines, and seamless cross-platform UX.</p>
+      <h3>🎧 Founder @ Vibrodo</h3>
+      <p>Leading a 6-member team building a music-tech startup — architecting high-performance local audio systems and delivering seamless cross-platform mobile experiences.</p>
     </td>
     <td width="50%">
-      <h3>📚 Currently Learning</h3>
-      <p>Advanced DSA, C++ system logic, and scalable architecture design patterns.</p>
+      <h3>🏆 GFG Campus Mantri</h3>
+      <p><strong>All India Rank 70 / 2,500</strong> campus leads. Hosted industry mentor sessions, led MongoDB certifications & maintained a 30+ day DSA POTD streak in C++.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>🚀 GSSoC '26 Contributor</h3>
-      <p>Ranked <strong>#188 globally</strong> out of 43,539 participants. Top 1% contributor with 3,532 pts and 14 PRs merged.</p>
+      <h3>🚀 GSSoC '26 — Top 1%</h3>
+      <p><strong>Rank #188 / 43,539</strong> participants. 3,532 pts · 14 PRs merged across Agri-Vision, Eventra & Amplitron.</p>
     </td>
     <td width="50%">
-      <h3>🎓 ECE Undergrad</h3>
-      <p>Electronics and Communication Engineering @ IIIT Kalyani, batch of '29.</p>
+      <h3>📚 Currently Building</h3>
+      <p>DSA Solutions Vault in C++ · Vibrodo Web Core · Grinding towards GSoC '27. Always shipping.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🏆 GSSoC '26 — Open Source Track
+## 🏅 Achievements & Roles
 
 <div align="center">
 
-[![GSSoC Profile](https://img.shields.io/badge/GSSoC%20'26-Rank%20%23188%20%2F%2043%2C539-00D4FF?style=for-the-badge&logo=git&logoColor=white)](https://gssoc.girlscript.org/profile/2405e152-7589-4372-8564-14bec86302c8)
-[![Top 1%](https://img.shields.io/badge/Top%201%25-3%2C532%20Points-FFD700?style=for-the-badge&logo=trophy&logoColor=black)](https://gssoc.girlscript.org/profile/2405e152-7589-4372-8564-14bec86302c8)
-[![PRs Merged](https://img.shields.io/badge/PRs%20Merged-14-4ade80?style=for-the-badge&logo=github&logoColor=white)](https://gssoc.girlscript.org/profile/2405e152-7589-4372-8564-14bec86302c8)
-[![B Tier](https://img.shields.io/badge/Tier-B%20%E2%86%92%20A%20(37%20pts%20away)-a78bfa?style=for-the-badge)](https://gssoc.girlscript.org/profile/2405e152-7589-4372-8564-14bec86302c8)
+[![GSSoC Rank](https://img.shields.io/badge/GSSoC%20'26-Rank%20%23188%20%2F%2043%2C539-00D4FF?style=flat-square&logo=git&logoColor=white)](https://gssoc.girlscript.org/profile/2405e152-7589-4372-8564-14bec86302c8)
+[![Top 1%](https://img.shields.io/badge/Top%201%25-3%2C532%20Points-FFD700?style=flat-square)](https://gssoc.girlscript.org/profile/2405e152-7589-4372-8564-14bec86302c8)
+[![PRs](https://img.shields.io/badge/PRs%20Merged-14-4ade80?style=flat-square&logo=github&logoColor=white)](https://gssoc.girlscript.org/profile/2405e152-7589-4372-8564-14bec86302c8)
+[![GFG](https://img.shields.io/badge/GFG%20Campus%20Mantri-AIR%2070%20%2F%202500-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.linkedin.com/in/abhinavdeval/)
+[![OSC Lead](https://img.shields.io/badge/Open%20Source%20Connect-Campus%20Lead-a78bfa?style=flat-square)](https://www.linkedin.com/in/abhinavdeval/)
 
 </div>
 
-<br/>
+---
+
+## 🌐 GSSoC '26 — Open Source Contributions
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="34%" valign="top">
       <h3>🌾 Agri-Vision · 9 PRs</h3>
-      <p>AI-powered cotton crop analysis system. Contributions: Redis-based rate limiting & caching, thread-safe ModelManager, async task queue with Celery + Redis, Swagger API docs, two-pointer disease prediction filter.</p>
+      <p>AI-powered cotton crop analysis. Shipped Redis rate limiting & caching, thread-safe ModelManager, Celery async task queue, Swagger docs, two-pointer disease filter.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square"/>
       </p>
-      <p><strong>+852 pts · 38 commits</strong></p>
+      <kbd>+852 pts · 38 commits</kbd>
     </td>
     <td width="33%" valign="top">
       <h3>📅 Eventra · 4 PRs</h3>
-      <p>Comprehensive event management system (React + Spring Boot). Contributions: search history & smart suggestions UI, active filters section with dismissible badges & clear-all functionality.</p>
+      <p>Event management platform (React + Spring Boot). Shipped search history & smart suggestions UI, active filters with dismissible badges.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       </p>
-      <p><strong>+356 pts · 8 commits</strong></p>
+      <kbd>+356 pts · 8 commits</kbd>
     </td>
     <td width="33%" valign="top">
       <h3>🎸 Amplitron · 1 PR</h3>
-      <p>Poor man's guitar amp — C++ audio processing project. First GSSoC PR merged here.</p>
+      <p>C++ guitar amp DSP project. First GSSoC PR — opened the journey.</p>
       <p>
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
       </p>
-      <p><strong>+89 pts · 8 commits</strong></p>
+      <kbd>+89 pts · 8 commits</kbd>
     </td>
   </tr>
 </table>
 
 <div align="center">
 
-**Badges Earned:** `Power Contributor` · `Rising Star` · `Bounty Master` · `Building Momentum` · `Code Warrior` · `+6 more`
+**Badges:** `Power Contributor` · `Rising Star` · `Bounty Master` · `Building Momentum` · `Code Warrior` · `+6 more`
 
 </div>
 
@@ -113,34 +114,44 @@
 
 ---
 
-## 💻 Featured Projects
+## 💻 My Projects
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/abhinavkdeval08-design/Vibrodo">🎧 Vibrodo</a></h3>
-      <p>Next-generation consumer audio platform focused on high-fidelity delivery and seamless cross-platform experience.</p>
+      <p>A music-tech startup product built with a 6-member team. Architected a high-performance local music player with optimized audio pipelines, real-time sync, and a seamless cross-platform mobile experience built for scale.</p>
       <p>
         <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
       </p>
     </td>
-    <td width="33%" valign="top">
-      <h3><a href="https://github.com/abhinavkdeval08-design/PiperChat01">💬 PiperChat</a></h3>
-      <p>Discord-style real-time chat with DMs, servers/channels, presence & email OTP auth. MongoDB refactored for high-frequency messaging.</p>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/abhinavkdeval08-design/DSA-Solutions-Vault">⚔️ DSA Solutions Vault</a></h3>
+      <p>Personal vault of Codeforces solutions crafted in C++. A structured, well-documented competitive programming archive — every problem solved, every pattern recorded. Daily grind, version controlled.</p>
       <p>
-        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/>
       </p>
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/abhinavkdeval08-design/Demo-Grocery-Store">🛒 Demo Grocery Engine</a></h3>
-      <p>High-performance commerce engine for local businesses with direct WhatsApp API integration.</p>
+      <p>High-performance mobile commerce engine for local businesses — direct WhatsApp API integration for order management, built for Tier-2/3 markets.</p>
       <p>
         <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/abhinavkdeval08-design/Snake-game-project">🐍 Classic Snake Game</a></h3>
+      <p>DSA project in C built with a 3-member team @ IIIT Kalyani. Engineered with linked lists, queue operations & manual memory management. Features zero-flicker ANSI rendering, progressive difficulty, smart fruit spawning, and a high-score system.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+        <img src="https://img.shields.io/badge/DSA-Data%20Structures-00D4FF?style=flat-square"/>
       </p>
     </td>
   </tr>
@@ -177,6 +188,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,100:00D4FF&height=100&section=footer&text=Code+the+vision.+Ship+the+product.&fontSize=16&fontAlignY=65&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020818,50:0a1628,100:00D4FF&height=110&section=footer&text=Code+the+vision.+Ship+the+product.&fontSize=16&fontAlignY=68&fontColor=ffffff" />
 
 </div>

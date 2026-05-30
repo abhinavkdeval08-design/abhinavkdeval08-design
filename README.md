@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+@+Vibrodo+%F0%9F%8E%A7;ECE+Undergrad+@+IIIT+Kalyani+'29;GSSoC+'26+Contributor;Competitive+Programmer+%E2%9A%94%EF%B8%8F;Low-Latency+Systems+%7C+Audio+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=620&lines=Building+%40+Vibrodo+%F0%9F%8E%A7;ECE+%40+IIIT+Kalyani+%2729;GSSoC+%2726+%7C+Rank+%23188+%2F+43%2C539+%F0%9F%94%A5;Top+1%25+Open+Source+Contributor;Competitive+Programmer+%E2%9A%94%EF%B8%8F)](https://git.io/typing-svg)
 
 <br/>
 
@@ -37,7 +37,7 @@
   <tr>
     <td width="50%">
       <h3>🚀 GSSoC '26 Contributor</h3>
-      <p>Actively crushing issues across full-stack and systems-level open-source repositories.</p>
+      <p>Ranked <strong>#188 globally</strong> out of 43,539 participants. Top 1% contributor with 3,532 pts and 14 PRs merged.</p>
     </td>
     <td width="50%">
       <h3>🎓 ECE Undergrad</h3>
@@ -48,11 +48,66 @@
 
 ---
 
+## 🏆 GSSoC '26 — Open Source Track
+
+<div align="center">
+
+[![GSSoC Profile](https://img.shields.io/badge/GSSoC%20'26-Rank%20%23188%20%2F%2043%2C539-00D4FF?style=for-the-badge&logo=git&logoColor=white)](https://gssoc.girlscript.org/profile/2405e152-7589-4372-8564-14bec86302c8)
+[![Top 1%](https://img.shields.io/badge/Top%201%25-3%2C532%20Points-FFD700?style=for-the-badge&logo=trophy&logoColor=black)](https://gssoc.girlscript.org/profile/2405e152-7589-4372-8564-14bec86302c8)
+[![PRs Merged](https://img.shields.io/badge/PRs%20Merged-14-4ade80?style=for-the-badge&logo=github&logoColor=white)](https://gssoc.girlscript.org/profile/2405e152-7589-4372-8564-14bec86302c8)
+[![B Tier](https://img.shields.io/badge/Tier-B%20%E2%86%92%20A%20(37%20pts%20away)-a78bfa?style=for-the-badge)](https://gssoc.girlscript.org/profile/2405e152-7589-4372-8564-14bec86302c8)
+
+</div>
+
+<br/>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🌾 Agri-Vision · 9 PRs</h3>
+      <p>AI-powered cotton crop analysis system. Contributions: Redis-based rate limiting & caching, thread-safe ModelManager, async task queue with Celery + Redis, Swagger API docs, two-pointer disease prediction filter.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+      </p>
+      <p><strong>+852 pts · 38 commits</strong></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>📅 Eventra · 4 PRs</h3>
+      <p>Comprehensive event management system (React + Spring Boot). Contributions: search history & smart suggestions UI, active filters section with dismissible badges & clear-all functionality.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </p>
+      <p><strong>+356 pts · 8 commits</strong></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🎸 Amplitron · 1 PR</h3>
+      <p>Poor man's guitar amp — C++ audio processing project. First GSSoC PR merged here.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+      </p>
+      <p><strong>+89 pts · 8 commits</strong></p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+**Badges Earned:** `Power Contributor` · `Rising Star` · `Bounty Master` · `Building Momentum` · `Code Warrior` · `+6 more`
+
+</div>
+
+---
+
 ## 🛠️ Tech Arsenal
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,c,cpp,linux,git,github,postman&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,c,cpp,python,redis,linux,git,github,postman&perline=14)](https://skillicons.dev)
 
 </div>
 
@@ -64,7 +119,7 @@
   <tr>
     <td width="33%" valign="top">
       <h3><a href="https://github.com/abhinavkdeval08-design/Vibrodo">🎧 Vibrodo</a></h3>
-      <p>Next-generation consumer audio platform focused on high-fidelity delivery and a seamless cross-platform experience.</p>
+      <p>Next-generation consumer audio platform focused on high-fidelity delivery and seamless cross-platform experience.</p>
       <p>
         <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
@@ -73,7 +128,7 @@
     </td>
     <td width="33%" valign="top">
       <h3><a href="https://github.com/abhinavkdeval08-design/PiperChat01">💬 PiperChat</a></h3>
-      <p>Real-time scalable chat architecture with specialized MongoDB refactoring for high-frequency messaging.</p>
+      <p>Discord-style real-time chat with DMs, servers/channels, presence & email OTP auth. MongoDB refactored for high-frequency messaging.</p>
       <p>
         <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
@@ -85,7 +140,7 @@
       <p>High-performance commerce engine for local businesses with direct WhatsApp API integration.</p>
       <p>
         <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
       </p>
     </td>
   </tr>

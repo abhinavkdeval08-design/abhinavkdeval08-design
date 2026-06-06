@@ -37,7 +37,7 @@
   <tr>
     <td width="50%">
       <h3>🚀 GSSoC '26 — Top 1%</h3>
-      <p><strong>Rank #188 / 43,539</strong> participants. 4,567 pts · 16 PRs merged across Agri-Vision, Eventra & Amplitron.</p>
+      <p><strong>Rank #188 / 43,539</strong> participants. 4,677 pts · 17 PRs merged across Agri-Vision, Eventra & Amplitron.</p>
     </td>
     <td width="50%">
       <h3>📚 Currently Building</h3>
@@ -86,12 +86,12 @@
       <kbd>+356 pts · 8 commits</kbd>
     </td>
     <td width="33%" valign="top">
-      <h3>🎸 Amplitron · 1 PR</h3>
+      <h3>🎸 Amplitron · 2 PR</h3>
       <p>C++ guitar amp DSP project. First GSSoC PR — opened the journey.</p>
       <p>
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
       </p>
-      <kbd>+89 pts · 8 commits</kbd>
+      <kbd>+199 pts · 8 commits</kbd>
     </td>
   </tr>
 </table>

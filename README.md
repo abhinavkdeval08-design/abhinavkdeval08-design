@@ -37,7 +37,7 @@
   <tr>
     <td width="50%">
       <h3>🚀 GSSoC '26 — Top 1%</h3>
-      <p><strong>Rank #188 / 43,539</strong> participants. 4,677 pts · 17 PRs merged across Agri-Vision, Eventra & Amplitron.</p>
+      <p><strong>Rank #188 / 43,539</strong> participants. 7,469 pts · 19 PRs merged across Agri-Vision, Eventra & Amplitron.</p>
     </td>
     <td width="50%">
       <h3>📚 Currently Building</h3>
@@ -53,8 +53,8 @@
 <div align="center">
 
 [![GSSoC Rank](https://img.shields.io/badge/GSSoC%20'26-Rank%20%23188%20%2F%2043%2C539-00D4FF?style=flat-square&logo=git&logoColor=white)](https://gssoc.girlscript.org/profile/2405e152-7589-4372-8564-14bec86302c8)
-[![Top 1%](https://img.shields.io/badge/Top%201%25-4%2C677%20Points-FFD700?style=flat-square)](https://gssoc.girlscript.org/profile/2405e152-7589-4372-8564-14bec86302c8)
-[![PRs](https://img.shields.io/badge/PRs%20Merged-17-4ade80?style=flat-square&logo=github&logoColor=white)](https://gssoc.girlscript.org/profile/2405e152-7589-4372-8564-14bec86302c8)
+[![Top 1%](https://img.shields.io/badge/Top%201%25-7%2C469%20Points-FFD700?style=flat-square)](https://gssoc.girlscript.org/profile/2405e152-7589-4372-8564-14bec86302c8)
+[![PRs](https://img.shields.io/badge/PRs%20Merged-19-4ade80?style=flat-square&logo=github&logoColor=white)](https://gssoc.girlscript.org/profile/2405e152-7589-4372-8564-14bec86302c8)
 [![GFG](https://img.shields.io/badge/GFG%20Campus%20Mantri-AIR%2070%20%2F%202500-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.linkedin.com/in/abhinavdeval/)
 [![OSC Lead](https://img.shields.io/badge/Open%20Source%20Connect-Campus%20Lead-a78bfa?style=flat-square)](https://www.linkedin.com/in/abhinavdeval/)
 

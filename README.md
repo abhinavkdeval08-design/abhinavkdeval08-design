@@ -67,17 +67,17 @@
 <table>
   <tr>
     <td width="34%" valign="top">
-      <h3>🌾 Agri-Vision · 9 PRs</h3>
+      <h3>🌾 Agri-Vision · 10 PRs</h3>
       <p>AI-powered cotton crop analysis. Shipped Redis rate limiting & caching, thread-safe ModelManager, Celery async task queue, Swagger docs, two-pointer disease filter.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
         <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square"/>
       </p>
-      <kbd>+852 pts · 38 commits</kbd>
+      <kbd>+989 pts · 45 commits</kbd>
     </td>
     <td width="33%" valign="top">
-      <h3>📅 Eventra · 5 PRs</h3>
+      <h3>📅 Eventra · 4 PRs</h3>
       <p>Event management platform (React + Spring Boot). Shipped search history & smart suggestions UI, active filters with dismissible badges.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>

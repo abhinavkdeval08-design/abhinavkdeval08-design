@@ -130,10 +130,11 @@
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/abhinavkdeval08-design/DSA-Solutions-Vault">⚔️ DSA Solutions Vault</a></h3>
-      <p>Personal vault of Codeforces solutions crafted in C++. A structured, well-documented competitive programming archive — every problem solved, every pattern recorded. Daily grind, version controlled.</p>
+      <p>Personal vault of Codeforces and Leetcode solutions crafted in C++. A structured, well-documented competitive programming archive — every problem solved, every pattern recorded. Daily grind, version controlled.</p>
       <p>
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
         <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/>
+        <img src="https://img.shields.io/badge/leetcode-1F8ACB?style=flat-square&logo=leetcode&logoColor=white"/>
       </p>
     </td>
   </tr>

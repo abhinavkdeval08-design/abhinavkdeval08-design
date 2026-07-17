@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=17&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Building+%40+Vibrodo+%F0%9F%8E%A7+%7C+ECE+%40+IIIT+Kalyani+'29;GSSoC+'26+%7C+Rank+%23188+%2F+43%2C539+%E2%80%94+Top+1%25+%F0%9F%94%A5;GFG+Campus+Mantri+%7C+All+India+Rank+70+%2F+2500+%F0%9F%8F%86;Competitive+Programmer+%E2%9A%94%EF%B8%8F+%7C+Low-Latency+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=17&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Building+%40+Vibrodo+%F0%9F%8E%A7+%7C+ECE+%40+IIIT+Kalyani+'29;GSSoC+'26+%7C+Rank+%23148+%2F+43%2C539+%E2%80%94+Top+1%25+%F0%9F%94%A5;GFG+Campus+Mantri+%7C+All+India+Rank+70+%2F+2500+%F0%9F%8F%86;Competitive+Programmer+%E2%9A%94%EF%B8%8F+%7C+Backend+Architecture)](https://git.io/typing-svg)
 
 <br/>
 
@@ -19,7 +19,7 @@
 
 ## ⚡ About Me
 
-> *ECE undergrad, Founder of Vibrodo, and open-source contributor obsessed with **low-latency systems**, **audio tech**, and **scalable architecture**. I don't just build apps — I build systems that last.*
+> *ECE undergrad, Founder of Vibrodo, and open-source contributor obsessed with scalable **backend architecture**, **full-stack development**, and **low-latency systems**. I don't just build apps — I build systems that last.*
 
 <br/>
 
@@ -41,7 +41,7 @@
     </td>
     <td width="50%">
       <h3>📚 Currently Building</h3>
-      <p>DSA Solutions Vault in C++ · Vibrodo Web Core · Grinding towards GSoC '27. Always shipping.</p>
+      <p>DSA Solutions Vault in C++ · Vibrodo Web Core · Grinding towards GSoC '27 (Targeting Node.js & JavaScript ecosystem).</p>
     </td>
   </tr>
 </table>

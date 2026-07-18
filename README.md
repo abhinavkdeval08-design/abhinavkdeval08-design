@@ -41,7 +41,7 @@
     </td>
     <td width="50%">
       <h3>📚 Currently Building</h3>
-      <p>DSA Solutions Vault in C++ · Vibrodo Web Core · Grinding towards GSoC '27 (Targeting Node.js & JavaScript ecosystem).</p>
+      <p>Systems Engineer | Core Developer at Vibrodo | Actively contributing to Cloud-Native (CNCF) ecosystems, Node.js, and Strict-Typed TypeScript environments.</p>
     </td>
   </tr>
 </table>
@@ -107,8 +107,8 @@
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,c,cpp,python,redis,linux,git,github,postman&perline=14)](https://skillicons.dev)
+  
+[![My Skills](https://skillicons.dev/icons?i=ts,js,cpp,c,linux,redis,react,nodejs,express,mongodb,git,github,docker,postman&perline=14)](https://skillicons.dev)
 
 </div>
 

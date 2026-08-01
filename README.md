@@ -118,7 +118,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/abhinavkdeval08-design/DSA-Solutions-Vault">⚔️ Systems & Algorithmic Vault</a></h3>
-      <p>A structured archive of 160+ Codeforces and LeetCode solutions solved in C++. Focused on algorithmic efficiency, data structure patterns, and clean code optimization.</p>
+      <p>A structured archive of 201+ LeetCode and Codeforces solutions solved in C++. Focused on algorithmic efficiency, data structure patterns, and clean code optimization.</p>
       <p>
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
         <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
@@ -136,8 +136,6 @@
 
 ---
 
-## 📊 Computational Metrics & Activity Insights
-
 <div align="center">
 
 <table>
@@ -150,17 +148,13 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td colspan="2" align="center">
       <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abhinavkdeval08-design&layout=compact&theme=tokyonight&hide_border=true&title_color=00D4FF&bg_color=0d1117" height="170" alt="Top Languages"/>
-    </td>
-    <td align="center">
-      <img src="https://leetcard.jacoblin.cool/abhinav_deval07?theme=tokyonight&font=Fira%20Code&ext=activity&hide_border=true" height="170" alt="LeetCode Stats"/>
     </td>
   </tr>
 </table>
 
 </div>
-
 ---
 
 <div align="center">

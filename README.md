@@ -41,7 +41,7 @@
     </td>
     <td width="50%">
       <h3>🚀 Open Source Foundations</h3>
-      <p><strong>GSSoC '26 Top 1% (Rank #148 / 43k+)</strong>. Shipped 28 modular PRs spanning distributed backend setups (Redis/Celery), custom search UI filters, and low-level audio code.</p>
+      <p><strong>GSSoC '26 Top 1% (Rank #95 / 43k+)</strong>. Shipped 28 modular PRs spanning distributed backend setups (Redis/Celery), custom search UI filters, and low-level audio code.</p>
     </td>
   </tr>
 </table>

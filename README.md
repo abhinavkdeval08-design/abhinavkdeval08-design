@@ -80,7 +80,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/abhinavkdeval08-design/Snake-game-project">🐍 Terminal Snake Game</a></h3>
+      <h3><a href="https://github.com/Pawan-official/Snake-Game">🐍 Terminal Snake Game</a></h3>
       <p>Zero-dependency terminal engine built in pure C. Implements dynamic memory management (<code>malloc</code>/<code>free</code>), pointer-based linked list mechanics, and flicker-free ANSI rendering.</p>
       <p>
         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>

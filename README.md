@@ -27,7 +27,7 @@
   <tr>
     <td width="50%">
       <h3>🎧 Founder @ Vibrodo</h3>
-      <p>Leading a 6-member engineering team building a cross-platform music streaming client. Designed and implemented real-time playback-room synchronization over WebSockets and modular audio pipelines.</p>
+      <p>Leading a 5-member engineering team building a cross-platform music streaming client. Designed and implemented real-time playback-room synchronization over WebSockets and modular audio pipelines.</p>
     </td>
     <td width="50%">
       <h3>☁️ Open Source Engagements</h3>
@@ -73,7 +73,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/abhinavkdeval08-design/DSA-Solutions-Vault">⚔️ Systems & Algorithmic Vault</a></h3>
-      <p>Structured repository of 250+ algorithmic solutions in C++ across LeetCode (1530 Rating) and Codeforces. Focuses on graph traversal, dynamic programming, and optimal space bounds.</p>
+      <p>Structured repository of 260+ algorithmic solutions in C++ across LeetCode (1530 Rating) and Codeforces. Focuses on graph traversal, dynamic programming, and optimal space bounds.</p>
       <p>
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
         <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>

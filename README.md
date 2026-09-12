@@ -9,6 +9,8 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinavdeval/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/abhinav_deval07/)
+[![Codolio](https://img.shields.io/badge/Codolio-00D4FF?style=for-the-badge&logo=codeforces&logoColor=0a0f1e)](https://codolio.com/profile/Abhinavdeval07)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00D4FF)](https://abhinav-deval-437udly.gamma.site/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinavdeval@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=abhinavkdeval08-design&label=Profile+Views&color=00D4FF&style=for-the-badge)](https://github.com/abhinavkdeval08-design)
@@ -73,10 +75,11 @@
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/abhinavkdeval08-design/DSA-Solutions-Vault">⚔️ Systems & Algorithmic Vault</a></h3>
-      <p>Structured repository of 260+ algorithmic solutions in C++ across LeetCode (1530 Rating) and Codeforces. Focuses on graph traversal, dynamic programming, and optimal space bounds.</p>
+      <p>Structured repository of 320+ algorithmic solutions in C++ across LeetCode (1530 Rating) and Codeforces. Focuses on graph traversal, dynamic programming, and optimal space bounds.</p>
       <p>
+        <a href="https://leetcode.com/u/abhinav_deval07/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
+        <a href="https://codolio.com/profile/Abhinavdeval07"><img src="https://img.shields.io/badge/Codolio-00D4FF?style=flat-square&logo=codeforces&logoColor=black"/></a>
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
       </p>
     </td>
     <td width="50%" valign="top">

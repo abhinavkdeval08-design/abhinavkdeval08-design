@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0f1e,50:0d1b2e,100:0a1628&height=200&section=header&text=Abhinav%20Deval&fontSize=52&fontAlignY=45&fontColor=ffffff&desc=Systems%20Developer%20%E2%80%A2%20Founder%20%40%20Vibrodo%20%E2%80%A2%20Open-Source%20Contributor&descAlignY=68&descAlign=50&descSize=16&stroke=00D4FF&strokeWidth=2" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0f1e,50:0d1b2e,100:0a1628&height=200&section=header&text=Abhinav%20Deval&fontSize=52&fontAlignY=45&fontColor=ffffff&desc=Systems%20Developer%20%E2%80%A2%20Founder%20%40%20Vibrodo%20%E2%80%A2%20GSoC%20'27%20Aspirant&descAlignY=68&descAlign=50&descSize=16&stroke=00D4FF&strokeWidth=2" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=17&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Backend+%26+Mobile+Architecture+%E2%9A%99%EF%B8%8F;Building+Vibrodo+(Real-time+Audio+Sync)+%F0%9F%8E%A7;Open+Source+Contributor+%40+Layer5+(CNCF)+%F0%9F%8C%90;GSSoC+'26+Top+1%25+(Rank+%23127+%2F+47k%2B)+%F0%9F%8F%86;C%2B%2B+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+React+Native)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=17&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Backend+%26+Mobile+Architecture+%E2%9A%99%EF%B8%8F;Building+Vibrodo+(Real-time+Audio+Sync)+%F0%9F%8E%A7;Open+Source+Contributor+%40+Layer5+(CNCF)+%F0%9F%8C%90;GSSoC+'26+Top+1%25+(Rank+%23127+%2F+47k%2B)+%F0%9F%8F%86;Aspiring+GSoC+'27+Contributor+%F0%9F%8C%B1;C%2B%2B+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+React+Native)](https://git.io/typing-svg)
 
 <br/>
 
@@ -12,6 +12,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/abhinav_deval07/)
 [![Codolio](https://img.shields.io/badge/Codolio-00D4FF?style=for-the-badge&logo=codeforces&logoColor=0a0f1e)](https://codolio.com/profile/Abhinavdeval07)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00D4FF)](https://abhinav-deval-437udly.gamma.site/)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinavdeval@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=abhinavkdeval08-design&label=Profile+Views&color=00D4FF&style=for-the-badge)](https://github.com/abhinavkdeval08-design)
 
@@ -21,7 +22,9 @@
 
 ## ⚡ About Me
 
-> ECE undergraduate at IIIT Kalyani building cross-platform mobile systems and contributing to Cloud-Native open source. Focused on client-side state synchronization at **Vibrodo** and modular component architecture within **Layer5's Sistent design system**.
+> ECE undergraduate at IIIT Kalyani building cross-platform mobile systems and contributing to Cloud-Native open source. Focused on client-side state synchronization at **Vibrodo** and modular component architecture within **Layer5's Sistent design system**. Currently preparing to contribute to **GSoC 2027** — actively exploring orgs across systems, dev-tooling, and backend infrastructure.
+
+**🕒 Availability:** IST (UTC+5:30) • Usually online evenings & weekends • Open to async collaboration across time zones
 
 <br/>
 
@@ -47,6 +50,29 @@
     </td>
   </tr>
 </table>
+
+---
+
+## 🌱 GSoC 2027 — What I'm Bringing to the Table
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🔧 Proven Contribution Track Record</h3>
+      <p>34+ merged PRs across 9 repos in the last cycle (GSSoC '26), spanning frontend design systems, backend job queues, and API layers — not just first-timer fixes.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>💬 Communication & Docs</h3>
+      <p>Comfortable writing clear PR descriptions, responding to review feedback, and documenting design decisions — see linked PRs below for examples of review threads.</p>
+    </td>
+    <td width="34%" valign="top">
+      <h3>🧭 Self-Directed Ownership</h3>
+      <p>Founded and lead Vibrodo's engineering team end-to-end — from architecture decisions to task delegation — so I'm used to owning a scope, not just picking up tickets.</p>
+    </td>
+  </tr>
+</table>
+
+**Interested in:** systems programming, dev tooling, design systems, real-time/networking infra, and Python or Node.js backend services. Open to CNCF, dev-infra, and education-tech orgs — actively researching a shortlist for 2027.
 
 ---
 

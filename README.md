@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0f1e,50:0d1b2e,100:0a1628&height=200&section=header&text=Abhinav%20Deval&fontSize=52&fontAlignY=45&fontColor=ffffff&desc=Systems%20Developer%20%E2%80%A2%20Founder%20%40%20Vibrodo%20%E2%80%A2%20GSoC%20'27%20Aspirant&descAlignY=68&descAlign=50&descSize=16&stroke=00D4FF&strokeWidth=2" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0f1e,50:0d1b2e,100:0a1628&height=200&section=header&text=Abhinav%20Deval&fontSize=52&fontAlignY=45&fontColor=ffffff&desc=Backend%20Developer%20%E2%80%A2%20Founder%20%40%20Vibrodo%20%E2%80%A2%20GSoC%20'27%20Aspirant&descAlignY=68&descAlign=50&descSize=16&stroke=00D4FF&strokeWidth=2" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=17&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Backend+%26+Mobile+Architecture+%E2%9A%99%EF%B8%8F;Building+Vibrodo+(Real-time+Audio+Sync)+%F0%9F%8E%A7;Open+Source+Contributor+%40+Layer5+(CNCF)+%F0%9F%8C%90;GSSoC+'26+Top+1%25+(Rank+%23127+%2F+47k%2B)+%F0%9F%8F%86;Aspiring+GSoC+'27+Contributor+%F0%9F%8C%B1;C%2B%2B+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+React+Native)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=17&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Backend+Development+%E2%9A%99%EF%B8%8F;Building+Vibrodo+(Real-time+Audio+Sync)+%F0%9F%8E%A7;Contributing+to+Layer5+(CNCF)+%E2%80%94+In+Review+%F0%9F%8C%90;GSSoC+'26+Top+1%25+(Rank+%23128+%2F+47.9k)+%F0%9F%8F%86;Aspiring+GSoC+'27+Contributor+%F0%9F%8C%B1;Node.js+%E2%80%A2+TypeScript+%E2%80%A2+React+Native+%E2%80%A2+C%2B%2B)](https://git.io/typing-svg)
 
 <br/>
 
@@ -12,8 +12,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/abhinav_deval07/)
 [![Codolio](https://img.shields.io/badge/Codolio-00D4FF?style=for-the-badge&logo=codeforces&logoColor=0a0f1e)](https://codolio.com/profile/Abhinavdeval07)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00D4FF)](https://abhinav-deval-437udly.gamma.site/)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinavdeval@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinavkdeval08@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=abhinavkdeval08-design&label=Profile+Views&color=00D4FF&style=for-the-badge)](https://github.com/abhinavkdeval08-design)
 
 </div>
@@ -22,7 +21,7 @@
 
 ## ⚡ About Me
 
-> ECE undergraduate at IIIT Kalyani building cross-platform mobile systems and contributing to Cloud-Native open source. Focused on client-side state synchronization at **Vibrodo** and modular component architecture within **Layer5's Sistent design system**. Currently preparing to contribute to **GSoC 2027** — actively exploring orgs across systems, dev-tooling, and backend infrastructure.
+> ECE undergraduate at IIIT Kalyani, focused on **backend services and real-time web/app infrastructure** (Node.js, WebSockets) — production backend engineering, not low-level systems programming. Founder at **Vibrodo**, currently contributing to **Layer5's Sistent design system (CNCF)**, and exploring both design-system tooling and backend dev-infra within CNCF ahead of **GSoC 2027**.
 
 **🕒 Availability:** IST (UTC+5:30) • Usually online evenings & weekends • Open to async collaboration across time zones
 
@@ -32,21 +31,22 @@
   <tr>
     <td width="50%">
       <h3>🎧 Founder @ Vibrodo</h3>
-      <p>Leading a 5-member engineering team building a cross-platform music streaming client. Designed and implemented real-time playback-room synchronization over WebSockets and modular audio pipelines.</p>
+      <p>Leading a small engineering team building a cross-platform music streaming client. Designed real-time playback-room synchronization over WebSockets and the backend service layer powering it.</p>
     </td>
     <td width="50%">
-      <h3>☁️ Open Source Engagements</h3>
-      <p>Active contributor at <strong>Layer5 (Cloud-Native / CNCF ecosystem)</strong>. Engineering type-safe UI primitives, responsive table layouts, and custom tokens in the Sistent design system.</p>
+      <h3>🚀 GSSoC '26 — Top 1%</h3>
+      <p><strong>Rank #128 / 47,951</strong> (24,517 pts, A Tier — 77 places to S Tier). Shipped 34 merged pull requests across 9 repositories, spanning Redis/Celery job queues, REST endpoints, and UI engines.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>🏆 GFG Campus Mantri</h3>
-      <p><strong>All India Rank 70 / 2,500</strong>. Hosted live technical speaker sessions with industry engineering leaders, conducted campus bootcamps, and led peer DSA problem-solving initiatives.</p>
+      <h3>☁️ Open Source @ Layer5 (CNCF)</h3>
+      <p>Currently in review on two components for the Sistent design system — <code>SubscriptionTable</code> and <code>FormHelperText</code> — working through maintainer feedback toward merge.</p>
     </td>
     <td width="50%">
-      <h3>🚀 Open Source Foundations</h3>
-      <p><strong>GSSoC '26 Top 1% (Rank #127 / 47k+)</strong>. Shipped 34 merged pull requests across 9 repositories covering asynchronous task pipelines (Redis/Celery), UI engines, and REST endpoints.</p>
+      <h3>🏆 GFG Campus Mantri</h3>
+      <p><strong>All India Rank 70 / 2,500</strong>. Hosted live technical speaker sessions with industry engineers, ran campus bootcamps, and led peer DSA problem-solving initiatives.</p>
+      <p style="margin-top:6px; font-size:12px;">🎖️ GSSoC Badges: <strong>GSSoC Champion</strong> (Legendary) · <strong>Elite</strong> (Epic)</p>
     </td>
   </tr>
 </table>
@@ -58,65 +58,21 @@
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>🔧 Proven Contribution Track Record</h3>
-      <p>34+ merged PRs across 9 repos in the last cycle (GSSoC '26), spanning frontend design systems, backend job queues, and API layers — not just first-timer fixes.</p>
+      <h3>🔧 Backend-Focused Track Record</h3>
+      <p>34 merged PRs across 9 repos in GSSoC '26 — including Redis rate-limiting middleware, Celery worker queues, and JWT/OTP auth flow refactors, not just frontend fixes.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>💬 Communication & Docs</h3>
-      <p>Comfortable writing clear PR descriptions, responding to review feedback, and documenting design decisions — see linked PRs below for examples of review threads.</p>
+      <h3>💬 Review & Iteration</h3>
+      <p>Comfortable with multi-round maintainer feedback and long-running review threads — currently applying that on two CNCF-org PRs at Layer5.</p>
     </td>
     <td width="34%" valign="top">
       <h3>🧭 Self-Directed Ownership</h3>
-      <p>Founded and lead Vibrodo's engineering team end-to-end — from architecture decisions to task delegation — so I'm used to owning a scope, not just picking up tickets.</p>
+      <p>Founded and lead Vibrodo's engineering team end-to-end — architecture decisions, task delegation, and shipping under real constraints.</p>
     </td>
   </tr>
 </table>
 
-**Interested in:** systems programming, dev tooling, design systems, real-time/networking infra, and Python or Node.js backend services. Open to CNCF, dev-infra, and education-tech orgs — actively researching a shortlist for 2027.
-
----
-
-## 💻 Featured Systems & Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/abhinavkdeval08-design/Vibrodo">🎧 Vibrodo (Audio Platform)</a></h3>
-      <p>Cross-platform music streaming client with real-time multi-device playback synchronization over WebSockets, background audio lifecycle handling, and local state caching.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/abhinavkdeval08-design/Demo-Grocery-Store">🛒 Mobile Commerce Sandbox</a></h3>
-      <p>Type-safe client storefront built in React Native. Integrated with WhatsApp Business API endpoints for direct order routing in local markets.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/abhinavkdeval08-design/DSA-Solutions-Vault">⚔️ Systems & Algorithmic Vault</a></h3>
-      <p>Structured repository of 320+ algorithmic solutions in C++ across LeetCode (1530 Rating) and Codeforces. Focuses on graph traversal, dynamic programming, and optimal space bounds.</p>
-      <p>
-        <a href="https://leetcode.com/u/abhinav_deval07/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
-        <a href="https://codolio.com/profile/Abhinavdeval07"><img src="https://img.shields.io/badge/Codolio-00D4FF?style=flat-square&logo=codeforces&logoColor=black"/></a>
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Pawan-official/Snake-Game">🐍 Terminal Snake Game</a></h3>
-      <p>Zero-dependency terminal engine built in pure C. Implements dynamic memory management (<code>malloc</code>/<code>free</code>), pointer-based linked list mechanics, and flicker-free ANSI rendering.</p>
-      <p>
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
-      </p>
-    </td>
-  </tr>
-</table>
+**Interested in:** backend frameworks, distributed job queues, real-time networking protocols, and Go/Node.js/Python infrastructure services. Actively shortlisting CNCF and dev-infra orgs for 2027.
 
 ---
 
@@ -125,17 +81,8 @@
 <table>
   <tr>
     <td width="34%" valign="top">
-      <h3>🕸️ Layer5 / CNCF</h3>
-      <p>Shipped baseline scaffolding for <code>SubscriptionTable</code> (<a href="https://github.com/layer5io/sistent/pull/1660">#1660</a>) with theme tokens and built <code>FormHelperText</code> (<a href="https://github.com/layer5io/sistent/pull/1659">#1659</a>) with polymorphic ref-forwarding.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white"/>
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🌾 Agri-Vision</h3>
-      <p>Engineered Redis rate-limiting middleware, offloaded long-running processing jobs to Celery worker queues, and added Swagger/OpenAPI documentation.</p>
+      <h3>🌾 Agri-Vision <span style="font-size:11px;">(backend)</span></h3>
+      <p>Engineered Redis rate-limiting middleware, offloaded long-running jobs to Celery worker queues, and added Swagger/OpenAPI docs.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
@@ -143,11 +90,62 @@
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3>📅 Eventra</h3>
-      <p>Configured scalable absolute module paths, refactored JWT/OTP authentication workflows, and managed local browser state persistence.</p>
+      <h3>📅 Eventra <span style="font-size:11px;">(backend)</span></h3>
+      <p>Refactored JWT/OTP authentication workflows, configured scalable module paths, and managed persistence layers.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🕸️ Layer5 / CNCF <span style="font-size:11px;">(in review)</span></h3>
+      <p>Building <code>SubscriptionTable</code> (<a href="https://github.com/layer5io/sistent/pull/1660">#1660</a>) and <code>FormHelperText</code> (<a href="https://github.com/layer5io/sistent/pull/1659">#1659</a>) — latest round of maintainer feedback (typography tokens, stable keys) just addressed, awaiting final approval.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💻 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/abhinavkdeval08-design/Vibrodo">🎧 Vibrodo (Audio Platform)</a></h3>
+      <p>Cross-platform music streaming client with real-time multi-device playback synchronization, background audio lifecycle handling, and a Node.js backend.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/abhinavkdeval08-design/DSA-Solutions-Vault">⚔️ Algorithmic Problem-Solving Vault</a></h3>
+      <p>297 problems solved across LeetCode (273 problems, 1,540 contest rating) and Codeforces (Pupil · 1,274) — Active 104-day solving streak. Strongest in Dynamic Programming, Divide & Conquer, and Game Theory, built on solid array/string/sorting fundamentals.</p>
+      <p>
+        <a href="https://leetcode.com/u/abhinav_deval07/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/abhinavkdeval08-design/Demo-Grocery-Store">🛒 Mobile Commerce Sandbox</a></h3>
+      <p>Type-safe client storefront in React Native, integrated with WhatsApp Business API endpoints for order routing.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/abhinavkdeval08-design/Snake-Game">🐍 Terminal Snake Game</a></h3>
+      <p>A 3-person collaborative DSA project @ IIIT Kalyani. My contributions: memory-leak-safe <code>clearSnake</code> logic, ANSI flicker-free rendering, and the high-score system.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
       </p>
     </td>
   </tr>
@@ -158,7 +156,7 @@
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-  
+
 [![My Skills](https://skillicons.dev/icons?i=ts,js,cpp,c,linux,redis,react,nodejs,express,mongodb,git,github,docker,postman&perline=14)](https://skillicons.dev)
 
 </div>

@@ -46,7 +46,7 @@
     <td width="50%">
       <h3>🏆 GFG Campus Mantri</h3>
       <p><strong>All India Rank 70 / 2,500</strong>. Hosted live technical speaker sessions with industry engineers, ran campus bootcamps, and led peer DSA problem-solving initiatives.</p>
-      <p style="margin-top:6px; font-size:12px;">🎖️ GSSoC Badges: <strong>GSSoC Champion</strong> (Legendary) · <strong>Elite</strong> (Epic)</p>
+      <p style="margin-top:6px; font-size:12px;">🎖️ Badges Earned: <strong>GSSoC Champion</strong> · <strong>Elite Contributor</strong></p>
     </td>
   </tr>
 </table>

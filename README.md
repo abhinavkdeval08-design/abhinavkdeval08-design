@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=17&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Backend+%26+Cloud-Native+Systems+Engineer+%E2%9A%99%EF%B8%8F;Real-Time+WebSocket+Infrastructure+%F0%9F%93%A1;Building+Vibrodo+(Synchronized+Audio+Platform)+%F0%9F%8E%A7;Building+EnclavePDF+(Zero-Egress+PDF+Engine)+%F0%9F%94%92;Contributing+to+Layer5+%26+Meshery+(CNCF)+%F0%9F%8C%90;GSSoC+'26+Rank+%23109+%2F+47.9k+(Top+1%25)+%F0%9F%8F%86;Aspiring+GSoC+'27+Contributor+%F0%9F%8C%B1;Node.js+%E2%80%A2+TypeScript+%E2%80%A2+React+Native+%E2%80%A2+C%2B%2B20)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=17&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Backend+%26+Cloud-Native+Systems+Engineer+%E2%9A%99%EF%B8%8F;Real-Time+WebSocket+Infrastructure+%F0%9F%93%A1;Building+Vibrodo+(Synchronized+Audio+Platform)+%F0%9F%8E%A7;Building+EnclavePDF+(Zero-Egress+PDF+Engine)+%F0%9F%94%92;Contributing+to+Layer5+%26+Meshery+(CNCF)+%F0%9F%8C%90;GSSoC+'26+Rank+%23137+%2F+47.9k+(Top+1%25)+%F0%9F%8F%86;Aspiring+GSoC+'27+Contributor+%F0%9F%8C%B1;Node.js+%E2%80%A2+TypeScript+%E2%80%A2+React+Native+%E2%80%A2+C%2B%2B20)](https://git.io/typing-svg)
 
 <br/>
 
@@ -36,7 +36,7 @@
     </td>
     <td width="50%">
       <h3>🚀 GSSoC '26 — Top 1%</h3>
-      <p><strong>Global Rank #109 / 47,926</strong> (A-Tier, 24,517 pts). 34 merged pull requests across 9 repositories, with a 13/13-week unbroken contribution streak. Work spans Redis/Celery job queues, REST endpoints, and auth workflows.</p>
+      <p><strong>Global Rank #137 / 47,924</strong> (A-Tier, 25,092 pts). 34 merged pull requests across 9 repositories, active in 13 of 13 program weeks. Work spans Redis/Celery job queues, REST endpoints, and auth workflows.</p>
     </td>
   </tr>
   <tr>
@@ -60,7 +60,7 @@
   <tr>
     <td width="33%" valign="top">
       <h3>🔧 Backend-Focused Track Record</h3>
-      <p>34 merged PRs across 9 repos in GSSoC '26 (Rank #109 / 47,926), including Redis rate-limiting middleware, Celery worker queues, and JWT/OTP auth refactors, not just frontend fixes.</p>
+      <p>34 merged PRs across 9 repos in GSSoC '26 (Rank #137 / 47,924), including Redis rate-limiting middleware, Celery worker queues, and JWT/OTP auth refactors, not just frontend fixes.</p>
     </td>
     <td width="33%" valign="top">
       <h3>💬 Review & Iteration</h3>
@@ -154,7 +154,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/abhinavkdeval08-design/DSA-Solutions-Vault">⚔️ DSA Solutions Vault — C++20 Algorithms</a></h3>
-      <p>C++20 solutions for <strong>284+ problems</strong> (Codolio-verified), covering DP, DSU, Dijkstra, and Monotonic Stacks. LeetCode Contest Rating <strong>1,590 (Peak)</strong> | Codeforces Pupil <strong>(1,359)</strong> | <strong>112+ continuous days</strong> unbroken streak.</p>
+      <p>C++20 solutions for <strong>386+ problems</strong> (Codolio-verified), covering DP, DSU, Dijkstra, and Monotonic Stacks. LeetCode Contest Rating <strong>1,709 (Peak)</strong> | Codeforces Pupil <strong>(1,359)</strong> | <strong>124+ continuous days</strong> unbroken streak.</p>
       <p>
         <a href="https://leetcode.com/u/abhinav_deval07/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
         <a href="https://codolio.com/profile/Abhinavdeval07"><img src="https://img.shields.io/badge/Codolio-00D4FF?style=flat-square&logo=codeforces&logoColor=0a0f1e"/></a>

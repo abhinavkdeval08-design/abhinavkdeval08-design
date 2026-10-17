@@ -45,8 +45,8 @@ B.Tech ECE at **IIIT Kalyani** (Class of 2029). I build **backend microservices,
       <b>GSSoC '26 Rank</b><br/><sub>of 47,924 · Top 1% · A-Tier</sub>
     </td>
     <td width="25%" align="center">
-      <h2>0 → 1</h2>
-      <b>Shipped: EnclavePDF</b><br/><sub>live, no backend</sub>
+      <h2>1</h2>
+      <b>Shipped Project</b><br/><sub>EnclavePDF · live, no backend</sub>
     </td>
   </tr>
 </table>
@@ -143,13 +143,19 @@ No backend, no account, no analytics. Load the page, switch off Wi-Fi, and it st
     <td width="50%" valign="top">
       <h4>⚙️ Pipeline</h4>
       <p>In a Web Worker: image mode (pdf.js → <code>OffscreenCanvas</code> → JPEG → pdf-lib). If not smaller, lossless mode (metadata strip + object-stream repacking). If neither wins, the original file is returned.</p>
-      <h4>🧠 Memory</h4>
-      <p>Input buffer is transferred, not copied. One page bitmap at a time. 16 MP cap per page. Worker terminated after every job.</p>
     </td>
     <td width="50%" valign="top">
       <h4>🔐 Privacy</h4>
       <p>In-app outbound-request indicator (<code>PerformanceResourceTiming</code>), plus a DevTools Network check, offline test and strict-CSP recipe in the repo README.</p>
-      <h4>🛡️ Input handling & typing</h4>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧠 Memory</h4>
+      <p>Input buffer is transferred, not copied. One page bitmap at a time. 16 MP cap per page. Worker terminated after every job.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛡️ Input handling &amp; typing</h4>
       <p>Binary magic-byte sanitizer for malformed mobile-scanner headers, pdf-lib fallback, password-protected PDF support. Page ↔ worker messages share one union type, so a mismatch is a compile error.</p>
     </td>
   </tr>
@@ -195,17 +201,31 @@ No backend, no account, no analytics. Load the page, switch off Wi-Fi, and it st
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="33%" valign="top" align="center">
       <h3>🏆 GSSoC '26</h3>
-      <p><strong>Rank #137 / 47,924</strong> · A-Tier · 25,092 pts. Active 13 of 13 weeks. Badges: GSSoC Champion, Elite.</p>
+      <h2>#137</h2>
+      <sub>of 47,924 participants</sub>
+      <p>
+        <img src="https://img.shields.io/badge/Top_1%25-GSSoC-00D4FF?style=flat-square"/>
+        <img src="https://img.shields.io/badge/A--Tier-10b981?style=flat-square"/>
+      </p>
+      <sub>25,092 pts · active 13 of 13 weeks<br/>Badges: GSSoC Champion · Elite</sub>
     </td>
-    <td width="34%" valign="top">
+    <td width="34%" valign="top" align="center">
       <h3>⚔️ Competitive Programming</h3>
-      <p><strong>388 solved</strong> · LeetCode 295 (112 Easy · 151 Medium · 32 Hard), Codeforces 47. LeetCode rating <strong>1,710</strong> (top 13.45%) · Codeforces <strong>Pupil (1,359)</strong> · <strong>125-day</strong> streak. Strongest: DP (36), Game Theory (10), Divide & Conquer (9).</p>
+      <h2>388</h2>
+      <sub>problems solved</sub>
+      <p>
+        <img src="https://img.shields.io/badge/LeetCode-1710-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Codeforces-Pupil_1359-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/>
+      </p>
+      <sub>112 Easy · 151 Medium · 32 Hard (LeetCode)<br/>Top 13.45% · 125-day streak<br/>Strongest: DP · Game Theory · D&amp;C</sub>
     </td>
-    <td width="33%" valign="top">
+    <td width="33%" valign="top" align="center">
       <h3>🎓 GFG Campus Mantri</h3>
-      <p><strong>All India Rank 70 / 2,500.</strong> Hosted live sessions with industry engineers, ran campus bootcamps, led peer DSA groups.</p>
+      <h2>AIR 70</h2>
+      <sub>out of 2,500</sub>
+      <p><sub>Live sessions with industry engineers<br/>Campus bootcamps · Peer DSA groups</sub></p>
     </td>
   </tr>
 </table>

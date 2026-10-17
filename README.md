@@ -28,29 +28,97 @@ B.Tech ECE at **IIIT Kalyani** (Class of 2029). I build **backend microservices,
 
 **GSoC 2027:** shortlisting orgs where I already contribute, starting with Layer5/Meshery and AsyncAPI. Working through issues and reviews there before applications open.
 
-<div align="center">
+<br/>
 
-| 🔀 Merged PRs | 🔍 Open PRs | 🔒 Shipped | 🏆 GSSoC '26 |
-|:---:|:---:|:---:|:---:|
-| **34** across **9** repos | **3** open: Layer5 Sistent ×2, AsyncAPI CLI ×1 | **EnclavePDF**, live, no backend | **Rank #137 / 47,924**<br/>Top 1% · A-Tier |
-
-</div>
+<table>
+  <tr>
+    <td width="25%" align="center">
+      <h2>34</h2>
+      <b>Merged PRs</b><br/><sub>across 9 repos (GSSoC '26)</sub>
+    </td>
+    <td width="25%" align="center">
+      <h2>3</h2>
+      <b>Open PRs</b><br/><sub>Layer5 Sistent ×2 · AsyncAPI CLI ×1</sub>
+    </td>
+    <td width="25%" align="center">
+      <h2>#137</h2>
+      <b>GSSoC '26 Rank</b><br/><sub>of 47,924 · Top 1% · A-Tier</sub>
+    </td>
+    <td width="25%" align="center">
+      <h2>0 → 1</h2>
+      <b>Shipped: EnclavePDF</b><br/><sub>live, no backend</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## ⚙️ Open Source
 
-| Project | Contribution | Status |
-|---|---|---|
-| [`layer5io/sistent`](https://github.com/layer5io/sistent) *(CNCF)* | `FormHelperText` base component: polymorphic ref typing, unit tests ([#1659](https://github.com/layer5io/sistent/pull/1659)) | `Under Review · Feedback Addressed` |
-| [`layer5io/sistent`](https://github.com/layer5io/sistent) *(CNCF)* | `SubscriptionTable`: theme typography tokens, stable keys, accessible labels, tests ([#1660](https://github.com/layer5io/sistent/pull/1660)) | `Under Review · Feedback Addressed` |
-| [`asyncapi/cli`](https://github.com/asyncapi/cli) | `asyncapi diff` printed an empty `ValidationError` on unparsable files. Fixed the error type, stopped double-wrapping, added a fallback for plain-string errors ([#2313](https://github.com/asyncapi/cli/pull/2313)) | `Open · Awaiting Review` |
-| `agri-vision` *(GSSoC)* | Redis rate-limiting middleware, Celery worker queues, Swagger/OpenAPI docs | `Merged` |
-| `eventra` *(GSSoC)* | JWT/OTP auth refactor, module paths, persistence layer | `Merged` |
+### 🔍 In Review / Open
 
-<sub>GSSoC '26 PRs by repo: `agri-vision` 10 · `ml-capsule` 9 · `eventra` 6 · others 9. Both Sistent PRs went through 19–20 commits of maintainer review (37 and 33 comments).</sub>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🕸️ Sistent · <code>FormHelperText</code></h3>
+      <p><a href="https://github.com/layer5io/sistent/pull/1659">layer5io/sistent #1659</a> <sub>(CNCF)</sub></p>
+      <p>Base component wrapper with polymorphic ref typing and unit tests.</p>
+      <p><code>Under Review · Feedback Addressed</code></p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🕸️ Sistent · <code>SubscriptionTable</code></h3>
+      <p><a href="https://github.com/layer5io/sistent/pull/1660">layer5io/sistent #1660</a> <sub>(CNCF)</sub></p>
+      <p>Theme typography tokens, stable keys, accessible labels, tests.</p>
+      <p><code>Under Review · Feedback Addressed</code></p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      </p>
+    </td>
+    <td width="34%" valign="top">
+      <h3>📡 AsyncAPI CLI · <code>diff</code></h3>
+      <p><a href="https://github.com/asyncapi/cli/pull/2313">asyncapi/cli #2313</a></p>
+      <p><code>asyncapi diff</code> printed an empty <code>ValidationError</code> on unparsable files. Fixed the error type, stopped double-wrapping, added a fallback for plain-string errors.</p>
+      <p><code>Open · Awaiting Review</code></p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
-<sub>Also reviewing others' work, e.g. a Next.js table-search crash fix in Meshery ([#22149](https://github.com/meshery/meshery/pull/22149)): explained why a second `decodeURIComponent` on `router.query` throws `URIError`.</sub>
+<sub>Both Sistent PRs went through 19–20 commits of maintainer review (37 and 33 comments). Also reviewing others' work, e.g. a Next.js table-search crash fix in Meshery ([#22149](https://github.com/meshery/meshery/pull/22149)): explained why a second `decodeURIComponent` on `router.query` throws `URIError`.</sub>
+
+### ✅ Merged (GSSoC '26)
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌾 Agri-Vision <sub>(10 PRs)</sub></h3>
+      <p>Redis rate-limiting middleware, Celery worker queues, Swagger/OpenAPI docs.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📅 Eventra <sub>(6 PRs)</sub></h3>
+      <p>JWT/OTP auth refactor, module paths, persistence layer.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<sub>Other GSSoC '26 repos: `ml-capsule` (9 PRs) and 6 more repos.</sub>
 
 ---
 
@@ -70,13 +138,22 @@ B.Tech ECE at **IIIT Kalyani** (Class of 2029). I build **backend microservices,
 
 No backend, no account, no analytics. Load the page, switch off Wi-Fi, and it still compresses.
 
-| Area | How it works |
-|---|---|
-| **Pipeline** | In a Web Worker: image mode (pdf.js → `OffscreenCanvas` → JPEG → pdf-lib). If not smaller, lossless mode (metadata strip + object-stream repacking). If neither wins, the original file is returned |
-| **Memory** | Input buffer is transferred, not copied. One page bitmap at a time. 16 MP cap per page. Worker terminated after every job |
-| **Privacy** | In-app outbound-request indicator (`PerformanceResourceTiming`), plus a DevTools Network check, offline test and strict-CSP recipe in the repo README |
-| **Input handling** | Binary magic-byte sanitizer for malformed mobile-scanner headers, pdf-lib fallback on format errors, password-protected PDF support |
-| **Typing** | Page ↔ worker messages share one union type, so a mismatch is a compile error. `pdfjs-dist` pinned to 4.10.38 on purpose |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚙️ Pipeline</h4>
+      <p>In a Web Worker: image mode (pdf.js → <code>OffscreenCanvas</code> → JPEG → pdf-lib). If not smaller, lossless mode (metadata strip + object-stream repacking). If neither wins, the original file is returned.</p>
+      <h4>🧠 Memory</h4>
+      <p>Input buffer is transferred, not copied. One page bitmap at a time. 16 MP cap per page. Worker terminated after every job.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔐 Privacy</h4>
+      <p>In-app outbound-request indicator (<code>PerformanceResourceTiming</code>), plus a DevTools Network check, offline test and strict-CSP recipe in the repo README.</p>
+      <h4>🛡️ Input handling & typing</h4>
+      <p>Binary magic-byte sanitizer for malformed mobile-scanner headers, pdf-lib fallback, password-protected PDF support. Page ↔ worker messages share one union type, so a mismatch is a compile error.</p>
+    </td>
+  </tr>
+</table>
 
 **Measured** (my own test files, one run each: examples, not benchmarks)
 
@@ -116,11 +193,22 @@ No backend, no account, no analytics. Load the page, switch off Wi-Fi, and it st
 
 ## 🏅 Achievements
 
-| Track | Details |
-|---|---|
-| **GSSoC '26** | Rank #137 / 47,924 · A-Tier · 25,092 pts · active 13 of 13 weeks · badges: GSSoC Champion, Elite |
-| **Competitive Programming** | 388 solved. LeetCode 295 (112 Easy · 151 Medium · 32 Hard), Codeforces 47. LeetCode rating 1,710 (top 13.45%), Codeforces Pupil (1,359), 125-day streak. Strongest topics: DP (36), Game Theory (10), Divide & Conquer (9) |
-| **GFG Campus Mantri** | All India Rank 70 / 2,500. Hosted live sessions with industry engineers, ran campus bootcamps, led peer DSA groups |
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🏆 GSSoC '26</h3>
+      <p><strong>Rank #137 / 47,924</strong> · A-Tier · 25,092 pts. Active 13 of 13 weeks. Badges: GSSoC Champion, Elite.</p>
+    </td>
+    <td width="34%" valign="top">
+      <h3>⚔️ Competitive Programming</h3>
+      <p><strong>388 solved</strong> · LeetCode 295 (112 Easy · 151 Medium · 32 Hard), Codeforces 47. LeetCode rating <strong>1,710</strong> (top 13.45%) · Codeforces <strong>Pupil (1,359)</strong> · <strong>125-day</strong> streak. Strongest: DP (36), Game Theory (10), Divide & Conquer (9).</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🎓 GFG Campus Mantri</h3>
+      <p><strong>All India Rank 70 / 2,500.</strong> Hosted live sessions with industry engineers, ran campus bootcamps, led peer DSA groups.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 

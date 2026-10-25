@@ -186,7 +186,7 @@ No backend, no account, no analytics. Load the page, switch off Wi-Fi, and it st
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/abhinavkdeval08-design/DSA-Solutions-Vault">⚔️ DSA Solutions Vault</a></h3>
-      <p>C++ solutions archive: 83 problems (78 LeetCode · 5 Codeforces) covering arrays, hashing, sliding window and prefix XOR. Overall 388 solved across platforms, tracked on <a href="https://codolio.com/profile/Abhinavdeval07">Codolio</a>.</p>
+      <p>C++ solutions archive: 83 problems (78 LeetCode · 5 Codeforces) covering arrays, hashing, sliding window and prefix XOR. Overall 412 solved across platforms, tracked on <a href="https://codolio.com/profile/Abhinavdeval07">Codolio</a>.</p>
       <p>
         <img src="https://img.shields.io/badge/C++20-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
         <a href="https://leetcode.com/u/abhinav_deval07/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
@@ -213,13 +213,16 @@ No backend, no account, no analytics. Load the page, switch off Wi-Fi, and it st
     </td>
     <td width="34%" valign="top" align="center">
       <h3>⚔️ Competitive Programming</h3>
-      <h2>388</h2>
+      <h2>412</h2>
       <sub>problems solved</sub>
       <p>
         <img src="https://img.shields.io/badge/LeetCode-1710-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Codeforces-Pupil_1359-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Codeforces-Pupil_1361-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CodeChef_DSA-1137-5B4638?style=flat-square"/>
       </p>
-      <sub>112 Easy · 151 Medium · 32 Hard (LeetCode)<br/>Top 13.45% · 125-day streak<br/>Strongest: DP · Game Theory · D&amp;C</sub>
+      <sub><b>125</b> Easy · <b>173</b> Med · <b>46</b> Hard (Top ~13% LC)</sub><br/>
+<sub>🔥 <b>135+ Day Streak</b> · 200+ Active Days</sub><br/>
+<sub>🎯 <b>Focus:</b> DP · Trees & Graphs · Game Theory · D&C</sub>
     </td>
     <td width="33%" valign="top" align="center">
       <h3>🎓 GFG Campus Mantri</h3>

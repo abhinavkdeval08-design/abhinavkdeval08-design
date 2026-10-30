@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0f1e,50:0d1b2e,100:0a1628&height=200&section=header&text=Abhinav%20Deval&fontSize=52&fontAlignY=45&fontColor=ffffff&desc=Backend%20and%20Real-Time%20Systems%20Engineer%20%E2%80%A2%20Founder%20%40%20Vibrodo%20%E2%80%A2%20Contributing%20to%20Layer5%20CNCF%20and%20AsyncAPI&descAlignY=68&descAlign=50&descSize=13&stroke=00D4FF&strokeWidth=2" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0f1e,50:0d1b2e,100:0a1628&height=200&section=header&text=Abhinav%20Deval&fontSize=52&fontAlignY=45&fontColor=ffffff&desc=Backend%20and%20real-time%20systems%20%E2%80%A2%20Building%20EnclavePDF%20%E2%80%A2%20Contributing%20to%20Layer5%20and%20AsyncAPI&descAlignY=68&descAlign=50&descSize=13&stroke=00D4FF&strokeWidth=2" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=17&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Backend+%26+Real-Time+Systems+Engineer+%E2%9A%99%EF%B8%8F;Real-Time+WebSocket+Infrastructure+%F0%9F%93%A1;Building+EnclavePDF+%26+Vibrodo+%F0%9F%94%92;Contributing+to+Layer5+(CNCF)+%26+AsyncAPI+%F0%9F%8C%90;Preparing+for+GSoC+2027+%F0%9F%8C%B1;Node.js+%E2%80%A2+TypeScript+%E2%80%A2+React+Native+%E2%80%A2+C%2B%2B20)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=17&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Backend+%26+real-time+systems;Building+EnclavePDF%3A+private+PDF+compression+in+the+browser;Contributing+to+Layer5+(CNCF)+%26+AsyncAPI;Founder+%40+Vibrodo%3A+free+music%2C+cloud+%2B+local;Contributing+to+Cloud+Native+(CNCF)+%26+Event-Driven+Systems;Node.js+%E2%80%A2+TypeScript+%E2%80%A2+React+Native+%E2%80%A2+C%2B%2B20)](https://git.io/typing-svg)
 
 <br/>
 
@@ -22,109 +22,44 @@
 
 ## ⚡ About
 
-B.Tech ECE at **IIIT Kalyani** (Class of 2029). I build **backend microservices, real-time WebSocket infrastructure, and client-side memory runtimes** (Web Workers, OffscreenCanvas). Founder at **Vibrodo**. Open-source contributor to **Layer5 Sistent (CNCF)** and **AsyncAPI**.
+B.Tech ECE at **IIIT Kalyani** (Class of 2029). I build **backend services, real-time WebSocket sync, and browser-side processing** with Web Workers. Currently building **EnclavePDF** (client-side PDF compression) and contributing to **Layer5** (Sistent, blowhorn-site, Meshery) and **AsyncAPI**. Founder of **Vibrodo**, a free music app.
 
-**🕒 Availability:** IST (UTC+5:30) · Usually online evenings & weekends · Open to async collaboration
+**🕒 Availability:** IST (UTC+5:30) · Usually online evenings and weekends · Open to async collaboration
 
-**GSoC 2027:** shortlisting orgs where I already contribute, starting with Layer5/Meshery and AsyncAPI. Working through issues and reviews there before applications open.
+**🎯 Target:** GSoC 2027 with Layer5/Meshery and AsyncAPI, the orgs where I already contribute. Proposed a fix for `mesheryctl-axi` provider detection ([#73](https://github.com/meshery-extensions/mesheryctl-axi/issues/73)), awaiting maintainer review; next up is Go backend issues in Meshery.
 
 <br/>
 
 <table>
   <tr>
-    <td width="25%" align="center">
+    <td width="20%" align="center">
       <h2>34</h2>
-      <b>Merged PRs</b><br/><sub>across 9 repos (GSSoC '26)</sub>
+      <b>Merged PRs</b><br/><sub>9 repos (GSSoC '26)</sub>
     </td>
-    <td width="25%" align="center">
-      <h2>3</h2>
-      <b>Open PRs</b><br/><sub>Layer5 Sistent ×2 · AsyncAPI CLI ×1</sub>
-    </td>
-    <td width="25%" align="center">
-      <h2>#137</h2>
-      <b>GSSoC '26 Rank</b><br/><sub>of 47,924 · Top 1% · A-Tier</sub>
-    </td>
-    <td width="25%" align="center">
+    <td width="20%" align="center">
       <h2>1</h2>
-      <b>Shipped Project</b><br/><sub>EnclavePDF · live, no backend</sub>
+      <b>Merged (Layer5)</b><br/><sub>blowhorn-site #250</sub>
+    </td>
+    <td width="20%" align="center">
+      <h2>4</h2>
+      <b>Open PRs</b><br/><sub>Sistent ×2 · AsyncAPI · blowhorn-site<br/>+ 1 active proposal (mesheryctl-axi)</sub>
+    </td>
+    <td width="20%" align="center">
+      <h2>#137</h2>
+      <b>GSSoC '26 Rank</b><br/><sub>of 47,924 · Top 1%</sub>
+    </td>
+    <td width="20%" align="center">
+      <h2>2</h2>
+      <b>Projects</b><br/><sub>EnclavePDF · Vibrodo</sub>
     </td>
   </tr>
 </table>
-
----
-
-## ⚙️ Open Source
-
-### 🔍 In Review / Open
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🕸️ Sistent · <code>FormHelperText</code></h3>
-      <p><a href="https://github.com/layer5io/sistent/pull/1659">layer5io/sistent #1659</a> <sub>(CNCF)</sub></p>
-      <p>Base component wrapper with polymorphic ref typing and unit tests.</p>
-      <p><code>Under Review · Feedback Addressed</code></p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🕸️ Sistent · <code>SubscriptionTable</code></h3>
-      <p><a href="https://github.com/layer5io/sistent/pull/1660">layer5io/sistent #1660</a> <sub>(CNCF)</sub></p>
-      <p>Theme typography tokens, stable keys, accessible labels, tests.</p>
-      <p><code>Under Review · Feedback Addressed</code></p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-      </p>
-    </td>
-    <td width="34%" valign="top">
-      <h3>📡 AsyncAPI CLI · <code>diff</code></h3>
-      <p><a href="https://github.com/asyncapi/cli/pull/2313">asyncapi/cli #2313</a></p>
-      <p><code>asyncapi diff</code> printed an empty <code>ValidationError</code> on unparsable files. Fixed the error type, stopped double-wrapping, added a fallback for plain-string errors.</p>
-      <p><code>Open · Awaiting Review</code></p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<sub>Both Sistent PRs went through 19–20 commits of maintainer review (37 and 33 comments). Also reviewing others' work, e.g. a Next.js table-search crash fix in Meshery ([#22149](https://github.com/meshery/meshery/pull/22149)): explained why a second `decodeURIComponent` on `router.query` throws `URIError`.</sub>
-
-### ✅ Merged (GSSoC '26)
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌾 Agri-Vision <sub>(10 PRs)</sub></h3>
-      <p>Redis rate-limiting middleware, Celery worker queues, Swagger/OpenAPI docs.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📅 Eventra <sub>(6 PRs)</sub></h3>
-      <p>JWT/OTP auth refactor, module paths, persistence layer.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<sub>Other GSSoC '26 repos: `ml-capsule` (9 PRs) and 6 more repos.</sub>
 
 ---
 
 ## 💻 Featured Projects
 
-### 🔒 EnclavePDF — compress PDFs in the browser, the file never leaves the tab
+### 🔒 EnclavePDF: compress PDFs in the browser, the file never leaves the tab
 
 [**Live Demo**](https://enclave-pdf.vercel.app) · [**GitHub**](https://github.com/abhinavkdeval08-design/EnclavePDF)
 
@@ -169,24 +104,53 @@ No backend, no account, no analytics. Load the page, switch off Wi-Fi, and it st
 | Academic calendar | Image · Balanced | 1.5 MB | 235.7 KB (85% smaller) |
 | Course syllabus (mostly text) | Lossless | 696 KB | 695.8 KB |
 
-> Image mode rasterizes pages, so text is no longer selectable. Lossless keeps text but saves little. Next: per-page text/scan detection and recompressing embedded images only.
+> **Image mode:** 52–85% smaller on my two image-heavy test files, but pages are rasterized so text is no longer selectable.<br/>
+> **Lossless mode:** keeps text selectable, saves little on text-heavy files (696 KB → 695.8 KB).<br/>
+> **Next:** per-page text/scan detection and recompressing embedded images only.
 
-### More Projects
+<br/>
+
+### 🎧 Vibrodo: a free music app, cloud and local in one queue
+
+[**Instagram**](https://www.instagram.com/vibrodo.music_24/) · <sub>Source is private, architecture walkthrough on request</sub>
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-7C3AED?style=flat-square)
+
+In the spirit of Spotify and YouTube Music, but it also plays **your own files**. Search the cloud, play local tracks from one queue, and listen to free focus music (lofi for study, gym and more) with no subscription. Built by a team of three across IIIT Kalyani and NIT Durgapur. In development.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/abhinavkdeval08-design/Vibrodo">🎧 Vibrodo</a></h3>
-      <p>Cross-platform audio streaming client with multi-device room synchronization over WebSockets, client-side state reconciliation, and background audio lifecycle handling. Playback is modeled with state machines, and client drift is reconciled against server time.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
-      </p>
+      <h4>🔀 One queue</h4>
+      <p>Cloud tracks (YouTube Data API v3) and local files (FLAC, WAV, ALAC, MP3) in a single playlist. If a local copy matches a cloud result, the local file plays.</p>
     </td>
     <td width="50%" valign="top">
+      <h4>🎼 Free background music</h4>
+      <p>Curated royalty-free lofi and focus playlists for study, gym and chill. Free to listen.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>👥 Listening rooms</h4>
+      <p>Multiple devices play the same track in sync over WebSockets. Playback is a state machine, and each client reconciles drift against server time.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📱 Built for phones</h4>
+      <p>Background audio lifecycle handling, local-file indexing, and a MongoDB-backed metadata cache to cut repeat API calls.</p>
+    </td>
+  </tr>
+</table>
+
+### More
+
+<table>
+  <tr>
+    <td width="100%" valign="top">
       <h3><a href="https://github.com/abhinavkdeval08-design/DSA-Solutions-Vault">⚔️ DSA Solutions Vault</a></h3>
-      <p>C++ solutions archive: 83 problems (78 LeetCode · 5 Codeforces) covering arrays, hashing, sliding window and prefix XOR. Overall 412 solved across platforms, tracked on <a href="https://codolio.com/profile/Abhinavdeval07">Codolio</a>.</p>
+      <p>C++ solutions to LeetCode and Codeforces problems: arrays, hashing, sliding window, DP, graphs. 415+ algorithmic problems solved across platforms, tracked on <a href="https://codolio.com/profile/Abhinavdeval07">Codolio</a>.</p>
       <p>
         <img src="https://img.shields.io/badge/C++20-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
         <a href="https://leetcode.com/u/abhinav_deval07/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
@@ -194,6 +158,92 @@ No backend, no account, no analytics. Load the page, switch off Wi-Fi, and it st
     </td>
   </tr>
 </table>
+
+---
+
+## ⚙️ Open Source
+
+### ✅ Merged in the Layer5 & CNCF Ecosystem
+
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <h3>🎺 blowhorn-site · <code>issue templates</code></h3>
+      <p><a href="https://github.com/blowhorn-ai/blowhorn-site/pull/250">blowhorn-ai/blowhorn-site #250</a> <sub>(fixes #249)</sub></p>
+      <p>Purged legacy Meshery references from the issue templates and config: Blowhorn-specific environment prompts (macOS app, Chrome extension, marketing site), Jekyll → Hugo label fix, contributor links and Slack routing. Extended to <code>ci.md</code> after review feedback from <b>Kate Suttons</b>. Approved and merged by <b>Yi Nuo</b>.</p>
+      <p><code>Merged</code></p>
+    </td>
+  </tr>
+</table>
+
+### 🔍 In Review / Open
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🕸️ Sistent · <code>FormHelperText</code></h3>
+      <p><a href="https://github.com/layer5io/sistent/pull/1659">layer5io/sistent #1659</a> <sub>(CNCF)</sub></p>
+      <p>Base component wrapper with polymorphic ref typing and unit tests.</p>
+      <p><code>Under Review · Feedback Addressed</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🕸️ Sistent · <code>SubscriptionTable</code></h3>
+      <p><a href="https://github.com/layer5io/sistent/pull/1660">layer5io/sistent #1660</a> <sub>(CNCF)</sub></p>
+      <p>Theme typography tokens, stable keys, accessible labels, tests.</p>
+      <p><code>Under Review · Feedback Addressed</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📡 AsyncAPI CLI · <code>diff</code></h3>
+      <p><a href="https://github.com/asyncapi/cli/pull/2313">asyncapi/cli #2313</a></p>
+      <p><code>asyncapi diff</code> printed an empty <code>ValidationError</code> on unparsable files. Fixed the error type, stopped double-wrapping, added a fallback for plain-string errors.</p>
+      <p><code>Open · Awaiting Review</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎺 blowhorn-site · <code>question.md</code></h3>
+      <p><a href="https://github.com/blowhorn-ai/blowhorn-site/pull/299">blowhorn-ai/blowhorn-site #299</a> <sub>(closes #293)</sub></p>
+      <p>Removes an orphan issue template that had no front matter and pointed to a legacy repo.</p>
+      <p><code>Open · Checks Passing</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🚢 mesheryctl-axi · <code>provider fallback proposal</code></h3>
+      <p><a href="https://github.com/meshery-extensions/mesheryctl-axi/issues/73">meshery-extensions/mesheryctl-axi #73</a> <sub>(CNCF)</sub></p>
+      <p>Bug: <code>system status</code> prints <code>provider: null</code>. Proposed implementation plan in <code>src/commands/system.ts</code>: keep <code>context.provider</code>, fall back to <code>meshery-provider</code> in <code>~/.meshery/auth.json</code>, then the server's <code>/api/provider</code>, else an explicit state instead of <code>null</code>.</p>
+      <p><code>Proposal Posted · Awaiting Maintainer Review</code></p>
+    </td>
+  </tr>
+</table>
+
+<sub>Both Sistent PRs implement polymorphic ref typing, unit test coverage and theme token alignment, and went through in-depth maintainer review. Also analysing issues in the Meshery ecosystem: why a second `decodeURIComponent` on `router.query` throws `URIError` in a Meshery UI fix ([#22149](https://github.com/meshery/meshery/pull/22149)).</sub>
+
+### ✅ Merged (Backend & Async Services)
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌾 Agri-Vision <sub>(10 PRs)</sub></h3>
+      <p>Redis rate-limiting middleware, Celery worker queues, Swagger/OpenAPI docs.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📅 Eventra <sub>(6 PRs)</sub></h3>
+      <p>JWT/OTP auth refactor, module paths, persistence layer.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<sub>Contributed through GSSoC '26. Other repos: `ml-capsule` (9 PRs) and 6 more.</sub>
 
 ---
 
@@ -213,16 +263,16 @@ No backend, no account, no analytics. Load the page, switch off Wi-Fi, and it st
     </td>
     <td width="34%" valign="top" align="center">
       <h3>⚔️ Competitive Programming</h3>
-      <h2>412</h2>
+      <h2>415+</h2>
       <sub>problems solved</sub>
       <p>
-        <img src="https://img.shields.io/badge/LeetCode-1710-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
+        <img src="https://img.shields.io/badge/LeetCode-1709-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
         <img src="https://img.shields.io/badge/Codeforces-Pupil_1361-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/>
         <img src="https://img.shields.io/badge/CodeChef_DSA-1137-5B4638?style=flat-square"/>
       </p>
-      <sub><b>125</b> Easy · <b>173</b> Med · <b>46</b> Hard (Top ~13% LC)</sub><br/>
-<sub>🔥 <b>135+ Day Streak</b> · 200+ Active Days</sub><br/>
-<sub>🎯 <b>Focus:</b> DP · Trees & Graphs · Game Theory · D&C</sub>
+      <sub><b>127</b> Easy · <b>173</b> Med · <b>46</b> Hard</sub><br/>
+      <sub>🔥 <b>136-day</b> best streak · <b>201</b> active days</sub><br/>
+      <sub>🎯 <b>Focus:</b> DP · Trees &amp; Graphs · Game Theory · D&amp;C</sub>
     </td>
     <td width="33%" valign="top" align="center">
       <h3>🎓 GFG Campus Mantri</h3>
@@ -239,7 +289,7 @@ No backend, no account, no analytics. Load the page, switch off Wi-Fi, and it st
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,cpp,c,linux,redis,react,nextjs,nodejs,express,mongodb,git,github,docker,postman&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,cpp,c,py,linux,redis,react,nextjs,nodejs,express,mongodb,git,github&perline=14)](https://skillicons.dev)
 
 </div>
 

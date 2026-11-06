@@ -22,27 +22,27 @@
 
 ## ⚡ About
 
-B.Tech ECE at **IIIT Kalyani** (Class of 2029). I build **backend services, real-time WebSocket sync, and browser-side processing** with Web Workers. Currently building **EnclavePDF** (client-side PDF compression) and contributing to **Layer5** (Sistent, blowhorn-site, Meshery) and **AsyncAPI**. Founder of **Vibrodo**, a free music app.
+B.Tech ECE at **IIIT Kalyani** (Class of 2029). I build **backend services, real-time WebSocket sync, and browser-side processing** with Web Workers. Currently building **EnclavePDF** (client-side PDF compression) and contributing to **Layer5 / Blowhorn** (blowhorn-site, tells, Sistent, Meshery) and **AsyncAPI**. Founder of **Vibrodo**, a free music app.
 
 **🕒 Availability:** IST (UTC+5:30) · Usually online evenings and weekends · Open to async collaboration
 
-**🎯 Target:** GSoC 2027 with Layer5/Meshery and AsyncAPI, the orgs where I already contribute. Proposed a fix for `mesheryctl-axi` provider detection ([#73](https://github.com/meshery-extensions/mesheryctl-axi/issues/73)), awaiting maintainer review; next up is Go backend issues in Meshery.
+**🎯 Target:** GSoC 2027 with Layer5/Meshery and AsyncAPI, the orgs where I already contribute. Fixed `mesheryctl-axi` provider detection ([#73](https://github.com/meshery-extensions/mesheryctl-axi/issues/73) → [PR #86](https://github.com/meshery-extensions/mesheryctl-axi/pull/86)), approved by maintainers and awaiting CI/merge; next up is Go backend issues in Meshery.
 
 <br/>
 
 <table>
   <tr>
     <td width="20%" align="center">
-      <h2>34</h2>
-      <b>Merged PRs</b><br/><sub>9 repos (GSSoC '26)</sub>
+      <h2>51</h2>
+      <b>Merged PRs</b><br/><sub>12 repos · 34 via GSSoC '26<br/>+ 17 Layer5 ecosystem</sub>
     </td>
     <td width="20%" align="center">
-      <h2>1</h2>
-      <b>Merged (Layer5)</b><br/><sub>blowhorn-site #250</sub>
+      <h2>17</h2>
+      <b>Merged (Layer5 ecosystem)</b><br/><sub>blowhorn-site ×13 · tells ×3 · Meshery ×1</sub>
     </td>
     <td width="20%" align="center">
-      <h2>4</h2>
-      <b>Open PRs</b><br/><sub>Sistent ×2 · AsyncAPI · blowhorn-site<br/>+ 1 active proposal (mesheryctl-axi)</sub>
+      <h2>5</h2>
+      <b>Open PRs</b><br/><sub>blowhorn-site · mesheryctl-axi<br/>Sistent ×2 · AsyncAPI</sub>
     </td>
     <td width="20%" align="center">
       <h2>#137</h2>
@@ -150,7 +150,7 @@ In the spirit of Spotify and YouTube Music, but it also plays **your own files**
   <tr>
     <td width="100%" valign="top">
       <h3><a href="https://github.com/abhinavkdeval08-design/DSA-Solutions-Vault">⚔️ DSA Solutions Vault</a></h3>
-      <p>C++ solutions to LeetCode and Codeforces problems: arrays, hashing, sliding window, DP, graphs. 415+ algorithmic problems solved across platforms, tracked on <a href="https://codolio.com/profile/Abhinavdeval07">Codolio</a>.</p>
+      <p>C++ solutions to LeetCode and Codeforces problems: arrays, hashing, sliding window, DP, graphs. 419 problems solved across platforms, tracked on <a href="https://codolio.com/profile/Abhinavdeval07">Codolio</a>.</p>
       <p>
         <img src="https://img.shields.io/badge/C++20-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
         <a href="https://leetcode.com/u/abhinav_deval07/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
@@ -163,15 +163,39 @@ In the spirit of Spotify and YouTube Music, but it also plays **your own files**
 
 ## ⚙️ Open Source
 
-### ✅ Merged in the Layer5 & CNCF Ecosystem
+### ✅ Merged in the Blowhorn / Layer5 & CNCF Ecosystem
 
 <table>
   <tr>
     <td width="100%" valign="top">
-      <h3>🎺 blowhorn-site · <code>issue templates</code></h3>
-      <p><a href="https://github.com/blowhorn-ai/blowhorn-site/pull/250">blowhorn-ai/blowhorn-site #250</a> <sub>(fixes #249)</sub></p>
-      <p>Purged legacy Meshery references from the issue templates and config: Blowhorn-specific environment prompts (macOS app, Chrome extension, marketing site), Jekyll → Hugo label fix, contributor links and Slack routing. Extended to <code>ci.md</code> after review feedback from <b>Kate Suttons</b>. Approved and merged by <b>Yi Nuo</b>.</p>
+      <h3>🔐 blowhorn-site · <code>internal-worker security &amp; correctness</code></h3>
+      <p><a href="https://github.com/blowhorn-ai/blowhorn-site/pull/496">#496</a>: CSV formula injection hardening (OWASP CWE-1236): neutralizes <code>=</code>, <code>+</code>, <code>-</code>, <code>@</code>, tab and CR triggers (including leading whitespace) and quotes bare CRs to stop row splitting.</p>
+      <p><a href="https://github.com/blowhorn-ai/blowhorn-site/pull/447">#447</a>: unsubscribe now requires POST, with a separate GET confirmation step.</p>
+      <p><a href="https://github.com/blowhorn-ai/blowhorn-site/pull/507">#507</a>: fleet tables sort mixed storage units correctly, using exact byte keys with escaped <code>data-v</code> attributes.</p>
+      <p><code>Merged · Reviewed by maintainers</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
+      <h3>🛠️ blowhorn-site &amp; tells · <code>CI, templates and repo hygiene</code></h3>
+      <p>Removed legacy Meshery references and made repo templates Blowhorn-specific: <a href="https://github.com/blowhorn-ai/blowhorn-site/pull/250">site #250</a>, <a href="https://github.com/blowhorn-ai/blowhorn-site/pull/299">#299</a>, <a href="https://github.com/blowhorn-ai/blowhorn-site/pull/315">#315</a>, <a href="https://github.com/blowhorn-ai/blowhorn-site/pull/357">#357</a>, and for tells <a href="https://github.com/blowhorn-ai/tells/pull/16">#16</a>, <a href="https://github.com/blowhorn-ai/tells/pull/17">#17</a>, <a href="https://github.com/blowhorn-ai/tells/pull/28">#28</a> (footers and support routed to <code>support@blowhorn.ai</code>, closes <a href="https://github.com/blowhorn-ai/tells/issues/26">#26</a>).</p>
+      <p>CI fixes: <a href="https://github.com/blowhorn-ai/blowhorn-site/pull/321">#321</a> upgrade <code>actions/labeler</code> to v5, <a href="https://github.com/blowhorn-ai/blowhorn-site/pull/379">#379</a> map labeler paths to the active repo structure, <a href="https://github.com/blowhorn-ai/blowhorn-site/pull/330">#330</a> pass <code>TAR_OPTIONS</code> to stop actionlint ownership failures in VMs, <a href="https://github.com/blowhorn-ai/blowhorn-site/pull/332">#332</a> resolve <code>make</code> dynamically and preserve host PATH in <code>MakeTargetTest</code>.</p>
       <p><code>Merged</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
+      <h3>🎨 blowhorn-site · <code>UI &amp; docs</code></h3>
+      <p><a href="https://github.com/blowhorn-ai/blowhorn-site/pull/476">#476</a>: softened dark mode ink to an accessible off-white. <a href="https://github.com/blowhorn-ai/blowhorn-site/pull/478">#478</a>: added Open Graph and Twitter card tags to the docs head.</p>
+      <p><code>Merged</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
+      <h3>🚢 Meshery · <code>docs</code></h3>
+      <p><a href="https://github.com/meshery/meshery/pull/22662">meshery/meshery #22662</a> <sub>(CNCF)</sub></p>
+      <p>Added my contributor introduction to the Meshery docs.</p>
+      <p><code>Merged · Approved</code></p>
     </td>
   </tr>
 </table>
@@ -179,6 +203,20 @@ In the spirit of Spotify and YouTube Music, but it also plays **your own files**
 ### 🔍 In Review / Open
 
 <table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚢 mesheryctl-axi · <code>provider fallback</code></h3>
+      <p><a href="https://github.com/meshery-extensions/mesheryctl-axi/pull/86">meshery-extensions/mesheryctl-axi #86</a> <sub>(CNCF · fixes #73)</sub></p>
+      <p><code>system status</code> printed <code>provider: null</code>. Now resolves the provider from config context, then the token file (<code>meshery-provider</code> / <code>provider</code>), then the server's <code>/api/provider</code> (3s timeout, auth forwarded), else an explicit <code>Unknown</code>. 104 tests, with host-config isolation.</p>
+      <p><code>Approved · Awaiting CI &amp; Merge</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔑 blowhorn-site · <code>Access key rotation</code></h3>
+      <p><a href="https://github.com/blowhorn-ai/blowhorn-site/pull/513">blowhorn-ai/blowhorn-site #513</a></p>
+      <p>Cloudflare Access key rotation caused 403s until the 10-minute cert cache expired. Refetches certs once on an unknown <code>kid</code> and still fails closed. Known limitation (no cooldown) documented.</p>
+      <p><code>Open · Reviewed</code></p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🕸️ Sistent · <code>FormHelperText</code></h3>
@@ -194,25 +232,11 @@ In the spirit of Spotify and YouTube Music, but it also plays **your own files**
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
       <h3>📡 AsyncAPI CLI · <code>diff</code></h3>
       <p><a href="https://github.com/asyncapi/cli/pull/2313">asyncapi/cli #2313</a></p>
       <p><code>asyncapi diff</code> printed an empty <code>ValidationError</code> on unparsable files. Fixed the error type, stopped double-wrapping, added a fallback for plain-string errors.</p>
       <p><code>Open · Awaiting Review</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎺 blowhorn-site · <code>question.md</code></h3>
-      <p><a href="https://github.com/blowhorn-ai/blowhorn-site/pull/299">blowhorn-ai/blowhorn-site #299</a> <sub>(closes #293)</sub></p>
-      <p>Removes an orphan issue template that had no front matter and pointed to a legacy repo.</p>
-      <p><code>Open · Checks Passing</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>🚢 mesheryctl-axi · <code>provider fallback proposal</code></h3>
-      <p><a href="https://github.com/meshery-extensions/mesheryctl-axi/issues/73">meshery-extensions/mesheryctl-axi #73</a> <sub>(CNCF)</sub></p>
-      <p>Bug: <code>system status</code> prints <code>provider: null</code>. Proposed implementation plan in <code>src/commands/system.ts</code>: keep <code>context.provider</code>, fall back to <code>meshery-provider</code> in <code>~/.meshery/auth.json</code>, then the server's <code>/api/provider</code>, else an explicit state instead of <code>null</code>.</p>
-      <p><code>Proposal Posted · Awaiting Maintainer Review</code></p>
     </td>
   </tr>
 </table>
@@ -263,15 +287,15 @@ In the spirit of Spotify and YouTube Music, but it also plays **your own files**
     </td>
     <td width="34%" valign="top" align="center">
       <h3>⚔️ Competitive Programming</h3>
-      <h2>415+</h2>
+      <h2>419</h2>
       <sub>problems solved</sub>
       <p>
         <img src="https://img.shields.io/badge/LeetCode-1709-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
         <img src="https://img.shields.io/badge/Codeforces-Pupil_1361-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/>
         <img src="https://img.shields.io/badge/CodeChef_DSA-1137-5B4638?style=flat-square"/>
       </p>
-      <sub><b>127</b> Easy · <b>173</b> Med · <b>46</b> Hard</sub><br/>
-      <sub>🔥 <b>136-day</b> best streak · <b>201</b> active days</sub><br/>
+      <sub><b>129</b> Easy · <b>176</b> Med · <b>46</b> Hard</sub><br/>
+      <sub>🔥 <b>136-day</b> best streak · <b>209</b> active days · <b>15</b> contests</sub><br/>
       <sub>🎯 <b>Focus:</b> DP · Trees &amp; Graphs · Game Theory · D&amp;C</sub>
     </td>
     <td width="33%" valign="top" align="center">

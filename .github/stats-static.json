@@ -1,0 +1,13 @@
+{
+  "user": "abhinavkdeval08-design",
+  "ecosystem_owners": ["blowhorn-ai", "meshery", "layer5io", "meshery-extensions"],
+  "manual_extra_merged": [
+    {
+      "repo": "Ayushh-Sharmaa/NexaSphere",
+      "count": 1,
+      "note": "Merged PR #2401 that GitHub search does not return. Only added when the repo is missing from the live results. Remove this entry if the live count already includes it."
+    }
+  ],
+  "gssoc": { "value": "#137", "sub": "of 47,924 · top 1%" },
+  "problems": { "value": "420", "sub": "LeetCode 1710 · CF Pupil 1361" }
+}

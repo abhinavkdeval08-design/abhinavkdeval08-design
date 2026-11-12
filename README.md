@@ -15,11 +15,12 @@
 <br/>
 
 <sub><b>CONTRIBUTING TO</b></sub><br/>
-[![Meshery](https://img.shields.io/badge/Meshery-00B39F?style=flat-square)](https://github.com/meshery/meshery)
-[![Layer5](https://img.shields.io/badge/Layer5-0086FF?style=flat-square)](https://github.com/layer5io)
-[![Blowhorn](https://img.shields.io/badge/Blowhorn-1f2937?style=flat-square)](https://github.com/blowhorn-ai)
+
+[![Meshery](https://img.shields.io/badge/Meshery-00B39F?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjEuOSIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBvbHlnb24gcG9pbnRzPSIxMiwyIDIxLDcgMjEsMTcgMTIsMjIgMywxNyAzLDciLz48cG9seWxpbmUgcG9pbnRzPSIzLDcgMTIsMTIgMjEsNyIvPjxsaW5lIHgxPSIxMiIgeTE9IjIiIHgyPSIxMiIgeTI9IjIyIi8%2BPC9zdmc%2B)](https://github.com/meshery/meshery)
+[![Layer5](https://img.shields.io/badge/Layer5-0086FF?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI%2BPHBhdGggZD0iTTQgM2g0LjV2MTMuNUgxOVYyMUg0VjN6bTcuNSAwSDE5djRoLTcuNVYzem0wIDZIMTl2NGgtNy41Vjl6Ii8%2BPC9zdmc%2B)](https://github.com/layer5io)
+[![Blowhorn](https://img.shields.io/badge/Blowhorn-1f2937?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI%2BPHBhdGggZD0iTTMgOXY2aDRsNSA0VjVMNyA5SDN6bTEzLjUgM2MwLTEuNzctMS4wMi0zLjI5LTIuNS00LjAzdjguMDVjMS40OC0uNzMgMi41LTIuMjUgMi41LTQuMDJ6TTE0IDMuMjN2Mi4wNmMyLjg5Ljg2IDUgMy41NCA1IDYuNzFzLTIuMTEgNS44NS01IDYuNzF2Mi4wNmM0LjAxLS45MSA3LTQuNDkgNy04Ljc3cy0yLjk5LTcuODYtNy04Ljc3eiIvPjwvc3ZnPg%3D%3D)](https://github.com/blowhorn-ai)
 [![CNCF](https://img.shields.io/badge/CNCF-231F20?style=flat-square&logo=cncf&logoColor=white)](https://www.cncf.io/)
-[![AsyncAPI](https://img.shields.io/badge/AsyncAPI-7C3AED?style=flat-square)](https://github.com/asyncapi)
+[![AsyncAPI](https://img.shields.io/badge/AsyncAPI-7C3AED?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTcgMmw0IDQtNCA0Ii8%2BPHBhdGggZD0iTTMgMTF2LTFhNCA0IDAgMCAxIDQtNGgxNCIvPjxwYXRoIGQ9Ik03IDIybC00LTQgNC00Ii8%2BPHBhdGggZD0iTTIxIDEzdjFhNCA0IDAgMCAxLTQgNEgzIi8%2BPC9zdmc%2B)](https://github.com/asyncapi)
 
 </div>
 

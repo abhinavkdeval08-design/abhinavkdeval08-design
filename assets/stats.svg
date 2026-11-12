@@ -1,23 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="140" viewBox="0 0 1000 140" role="img" aria-label="Key numbers: 54 merged prs, 20 layer5 / cncf, #137 gssoc '26, 420 problems solved">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="140" viewBox="0 0 1000 140" role="img" aria-label="Key numbers: 54 merged prs, 20 layer5 / cncf, #137 gssoc &#x27;26, 420 problems solved">
 <defs><linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00D4FF"/><stop offset="1" stop-color="#00B39F"/></linearGradient></defs>
 <style>.sans{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}</style>
 <rect x="0.5" y="8.5" width="238" height="123" rx="11" fill="#0d1117" stroke="#30363d"/>
-<rect x="103" y="24" width="32" height="3" rx="1.5" fill="url(#accent)"/>
+<rect x="101" y="24" width="32" height="3" rx="1.5" fill="url(#accent)"/>
 <text class="sans" x="119" y="66" text-anchor="middle" fill="#ffffff" font-size="36" font-weight="700">54</text>
 <text class="sans" x="119" y="91" text-anchor="middle" fill="#e6edf3" font-size="13.5" font-weight="600">Merged PRs</text>
 <text class="sans" x="119" y="111" text-anchor="middle" fill="#8b949e" font-size="10">across 12 repos</text>
 <rect x="254.5" y="8.5" width="238" height="123" rx="11" fill="#0d1117" stroke="#30363d"/>
-<rect x="357" y="24" width="32" height="3" rx="1.5" fill="url(#accent)"/>
+<rect x="355" y="24" width="32" height="3" rx="1.5" fill="url(#accent)"/>
 <text class="sans" x="373" y="66" text-anchor="middle" fill="#ffffff" font-size="36" font-weight="700">20</text>
 <text class="sans" x="373" y="91" text-anchor="middle" fill="#e6edf3" font-size="13.5" font-weight="600">Layer5 / CNCF</text>
 <text class="sans" x="373" y="111" text-anchor="middle" fill="#8b949e" font-size="10">blowhorn-site ×14 · Meshery ×3 · tells ×3</text>
 <rect x="508.5" y="8.5" width="238" height="123" rx="11" fill="#0d1117" stroke="#30363d"/>
-<rect x="611" y="24" width="32" height="3" rx="1.5" fill="url(#accent)"/>
+<rect x="609" y="24" width="32" height="3" rx="1.5" fill="url(#accent)"/>
 <text class="sans" x="627" y="66" text-anchor="middle" fill="#ffffff" font-size="36" font-weight="700">#137</text>
-<text class="sans" x="627" y="91" text-anchor="middle" fill="#e6edf3" font-size="13.5" font-weight="600">GSSoC '26</text>
+<text class="sans" x="627" y="91" text-anchor="middle" fill="#e6edf3" font-size="13.5" font-weight="600">GSSoC &#x27;26</text>
 <text class="sans" x="627" y="111" text-anchor="middle" fill="#8b949e" font-size="10">of 47,924 · top 1%</text>
 <rect x="762.5" y="8.5" width="238" height="123" rx="11" fill="#0d1117" stroke="#30363d"/>
-<rect x="865" y="24" width="32" height="3" rx="1.5" fill="url(#accent)"/>
+<rect x="863" y="24" width="32" height="3" rx="1.5" fill="url(#accent)"/>
 <text class="sans" x="881" y="66" text-anchor="middle" fill="#ffffff" font-size="36" font-weight="700">420</text>
 <text class="sans" x="881" y="91" text-anchor="middle" fill="#e6edf3" font-size="13.5" font-weight="600">Problems solved</text>
 <text class="sans" x="881" y="111" text-anchor="middle" fill="#8b949e" font-size="10">LeetCode 1710 · CF Pupil 1361</text>

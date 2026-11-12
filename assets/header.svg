@@ -1,31 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="Abhinav Deval - Backend and real-time systems">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0a0f1c" />
-      <stop offset="55%" stop-color="#0d1117" />
-      <stop offset="100%" stop-color="#0b1926" />
+      <stop offset="0%" stop-color="#0a0f1c"/>
+      <stop offset="55%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#0b1926"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#00D4FF" />
-      <stop offset="100%" stop-color="#00B39F" />
+      <stop offset="0%" stop-color="#00D4FF"/>
+      <stop offset="100%" stop-color="#00B39F"/>
     </linearGradient>
-    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
-      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#30363d" stroke-opacity="0.22" stroke-width="1" />
-    </pattern>
   </defs>
   <style>
     .sans { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
     .mono { font-family: 'Fira Code', 'JetBrains Mono', Consolas, monospace; }
   </style>
-
-  <rect x="0.5" y="0.5" width="1199" height="219" rx="14" fill="url(#bg)" stroke="#30363d" />
-  <rect x="1" y="1" width="1198" height="218" rx="14" fill="url(#grid)" />
-  <rect x="44" y="34" width="54" height="4" rx="2" fill="url(#accent)" />
-
-  <text class="sans" x="44" y="88" fill="#ffffff" font-size="44" font-weight="700" letter-spacing="-0.5">Abhinav Deval</text>
+  <rect x="0.5" y="0.5" width="1199" height="219" rx="14" fill="url(#bg)" stroke="#30363d"/>
+  <rect x="44" y="34" width="54" height="4" rx="2" fill="url(#accent)"/>
+  <text class="sans" x="44" y="88" fill="#ffffff" font-size="44" font-weight="700">Abhinav Deval</text>
   <text class="sans" x="44" y="122" fill="#c9d1d9" font-size="18" font-weight="500">Backend and Real-Time Systems  ·  Open-Source Contributor (Meshery, Layer5, AsyncAPI)</text>
-
-  <rect x="44" y="148" width="680" height="38" rx="8" fill="#161b22" stroke="#30363d" />
-  <circle cx="64" cy="167" r="4.5" fill="#00B39F" />
+  <rect x="44" y="148" width="680" height="38" rx="8" fill="#161b22" stroke="#30363d"/>
+  <circle cx="64" cy="167" r="4.5" fill="#00B39F"/>
   <text class="mono" x="80" y="172" fill="#00D4FF" font-size="13.5" font-weight="600">$ status --latest: shipped Go CLI and UI fixes in Meshery v1.0.77 (CNCF)</text>
 </svg>

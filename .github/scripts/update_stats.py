@@ -79,19 +79,19 @@ def build_cards(cfg, repos):
 def render(cards):
     aria = "Key numbers: " + ", ".join(f"{n} {l.lower()}" for n, l, _ in cards)
     parts = [
-        f'<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="{escape(aria)}">',
+        f'<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="140" viewBox="0 0 1000 140" role="img" aria-label="{escape(aria)}">',
         '<defs><linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00D4FF"/><stop offset="1" stop-color="#00B39F"/></linearGradient></defs>',
         "<style>.sans{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}</style>",
     ]
     for i, (num, label, sub) in enumerate(cards):
-        x = i * 305
-        cx = x + 142.5
+        x = i * 254
+        cx = x + 119
         parts += [
-            f'<rect x="{x + 0.5}" y="10.5" width="284" height="129" rx="12" fill="#0d1117" stroke="#30363d"/>',
-            f'<rect x="{cx - 18}" y="28" width="36" height="3" rx="1.5" fill="url(#accent)"/>',
-            f'<text class="sans" x="{cx}" y="74" text-anchor="middle" fill="#ffffff" font-size="44" font-weight="700">{escape(num)}</text>',
-            f'<text class="sans" x="{cx}" y="100" text-anchor="middle" fill="#e6edf3" font-size="15" font-weight="600">{escape(label)}</text>',
-            f'<text class="sans" x="{cx}" y="121" text-anchor="middle" fill="#8b949e" font-size="11.5">{escape(sub)}</text>',
+            f'<rect x="{x + 0.5}" y="8.5" width="238" height="123" rx="11" fill="#0d1117" stroke="#30363d"/>',
+            f'<rect x="{cx - 18}" y="24" width="32" height="3" rx="1.5" fill="url(#accent)"/>',
+            f'<text class="sans" x="{cx}" y="66" text-anchor="middle" fill="#ffffff" font-size="36" font-weight="700">{escape(num)}</text>',
+            f'<text class="sans" x="{cx}" y="91" text-anchor="middle" fill="#e6edf3" font-size="13.5" font-weight="600">{escape(label)}</text>',
+            f'<text class="sans" x="{cx}" y="111" text-anchor="middle" fill="#8b949e" font-size="10">{escape(sub)}</text>',
         ]
     parts.append("</svg>")
     return "\n".join(parts)

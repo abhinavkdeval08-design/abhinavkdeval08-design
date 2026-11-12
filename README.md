@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg?v=3" alt="Abhinav Deval, backend and real-time systems" width="100%"/>
+<img src="assets/header.svg?v=4" alt="Abhinav Deval, backend and real-time systems" width="100%"/>
 
 <br/><br/>
 

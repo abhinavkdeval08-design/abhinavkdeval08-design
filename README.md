@@ -14,7 +14,19 @@
 
 <br/>
 
-<sub><b>CONTRIBUTING TO</b></sub><br/>
+<sub><b>CONTRIBUTING TO</b></sub>
+
+<br/><br/>
+
+<a href="https://github.com/layer5io">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/layer5io/layer5/master/.github/assets/images/layer5/layer5-light-no-trim.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/layer5io/layer5/master/.github/assets/images/layer5/layer5-no-trim.svg">
+    <img src="https://raw.githubusercontent.com/layer5io/layer5/master/.github/assets/images/layer5/layer5-no-trim.svg" alt="Layer5" height="36">
+  </picture>
+</a>
+
+<br/><br/>
 
 [![Meshery](https://img.shields.io/badge/Meshery-00B39F?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjEuOSIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBvbHlnb24gcG9pbnRzPSIxMiwyIDIxLDcgMjEsMTcgMTIsMjIgMywxNyAzLDciLz48cG9seWxpbmUgcG9pbnRzPSIzLDcgMTIsMTIgMjEsNyIvPjxsaW5lIHgxPSIxMiIgeTE9IjIiIHgyPSIxMiIgeTI9IjIyIi8%2BPC9zdmc%2B)](https://github.com/meshery/meshery)
 [![Layer5](https://img.shields.io/badge/Layer5-0086FF?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI%2BPHBhdGggZD0iTTQgM2g0LjV2MTMuNUgxOVYyMUg0VjN6bTcuNSAwSDE5djRoLTcuNVYzem0wIDZIMTl2NGgtNy41Vjl6Ii8%2BPC9zdmc%2B)](https://github.com/layer5io)
@@ -33,8 +45,8 @@
 Second-year B.Tech ECE student at **IIIT Kalyani** (Class of 2029). I build **backend services, real-time systems, and browser-side processing**, and contribute to **Meshery (CNCF)**, **Layer5 / Blowhorn**, and **AsyncAPI**, fixing security, reliability, and CI bugs with tests.
 
 - 🚢 Two fixes shipped in **[Meshery v1.0.77](https://github.com/meshery/meshery/releases/tag/v1.0.77)** release notes — one in Go (`mesheryctl`) and one in the UI.
-- 🔐 Closed a CSV formula-injection vulnerability and a Cloudflare Access key-rotation outage in a production worker.
-- 🏆 Ranked **#137 of 47,924** in GSSoC '26 (top 1%).
+- 🔐 Fixed a CSV formula-injection vulnerability and a Cloudflare Access key-rotation bug (valid tokens returning 403) in a production worker.
+- 🏆 Ranked **#137 of 47,924** in GSSoC '26 (top 0.3%).
 
 > **🎯 Looking for:** Backend or real-time systems internships, and a GSoC 2027 slot with Layer5/Meshery or AsyncAPI.  
 > **🕒 Availability:** IST (UTC+5:30) · online evenings and weekends · async-friendly
@@ -56,7 +68,7 @@ Second-year B.Tech ECE student at **IIIT Kalyani** (Class of 2029). I build **ba
 | Focus | Engineering Impact & Proof |
 | :--- | :--- |
 | **CSV Formula Injection** | Neutralized `=`, `+`, `-`, `@`, tab, and CR triggers (including after leading whitespace) and quoted bare CRs to prevent row splitting per OWASP CWE-1236. Merged with tests in [blowhorn-site #496](https://github.com/blowhorn-ai/blowhorn-site/pull/496). |
-| **Access Key-Rotation Outage** | Refetched Cloudflare signing certs once on an unknown `kid` instead of failing valid tokens with 403 until the 10-minute cache expired, while still failing closed on invalid keys. Merged in [blowhorn-site #513](https://github.com/blowhorn-ai/blowhorn-site/pull/513). |
+| **Access Key-Rotation Bug** | Refetched Cloudflare signing certs once on an unknown `kid` instead of failing valid tokens with 403 until the 10-minute cache expired, while still failing closed on invalid keys. Merged in [blowhorn-site #513](https://github.com/blowhorn-ai/blowhorn-site/pull/513). |
 | **`mesheryctl` Runtime Panics** | Fixed three panics in `environment view` (nil API response, empty slice, `TotalCount` mismatch) with table-driven Go unit tests. Shipped in **Meshery v1.0.77** via [meshery #23365](https://github.com/meshery/meshery/pull/23365). |
 | **Mail-Scanner Unsubscribes** | Split unsubscribe links so `GET` renders a confirmation page and only `POST` mutates state, preventing email security scanners from unsubscribing users. Merged in [blowhorn-site #447](https://github.com/blowhorn-ai/blowhorn-site/pull/447). |
 
@@ -130,7 +142,7 @@ Streams cloud tracks (YouTube Data API v3) and local lossless/compressed files (
 ### 🔍 In review
 
 - **mesheryctl-axi** · [#86](https://github.com/meshery-extensions/mesheryctl-axi/pull/86) (CNCF): `system status` printed `provider: null`. Resolves provider from config, token file, then server (3s timeout), else `Unknown`. Approved, awaiting merge.
-- **Meshery** · [#23363](https://github.com/meshery/meshery/pull/23363) (CNCF): follow-up to #23357 applying reviewer notes (shallow copy of fetched schema and `Array.isArray` guard). Approved, awaiting final build check.
+- **Meshery** · [#23363](https://github.com/meshery/meshery/pull/23363) (CNCF): follow-up to #23357 applying reviewer notes (shallow copy of fetched schema and its `properties` map, plus an `Array.isArray` guard). Review feedback addressed, awaiting re-review.
 - **Sistent** · [#1659](https://github.com/layer5io/sistent/pull/1659) FormHelperText, [#1660](https://github.com/layer5io/sistent/pull/1660) SubscriptionTable (CNCF).
 - **AsyncAPI CLI** · [#2313](https://github.com/asyncapi/cli/pull/2313): `asyncapi diff` printed an empty `ValidationError` on unparsable files.
 

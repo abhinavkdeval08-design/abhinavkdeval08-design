@@ -22,17 +22,17 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/layer5io/layer5/master/.github/assets/images/layer5/layer5-light-no-trim.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/layer5io/layer5/master/.github/assets/images/layer5/layer5-no-trim.svg">
-    <img src="https://raw.githubusercontent.com/layer5io/layer5/master/.github/assets/images/layer5/layer5-no-trim.svg" alt="Layer5" height="36">
+    <img src="https://raw.githubusercontent.com/layer5io/layer5/master/.github/assets/images/layer5/layer5-no-trim.svg" alt="Layer5" height="40">
   </picture>
 </a>
-
-<br/><br/>
-
-[![Meshery](https://img.shields.io/badge/Meshery-00B39F?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjEuOSIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBvbHlnb24gcG9pbnRzPSIxMiwyIDIxLDcgMjEsMTcgMTIsMjIgMywxNyAzLDciLz48cG9seWxpbmUgcG9pbnRzPSIzLDcgMTIsMTIgMjEsNyIvPjxsaW5lIHgxPSIxMiIgeTE9IjIiIHgyPSIxMiIgeTI9IjIyIi8%2BPC9zdmc%2B)](https://github.com/meshery/meshery)
-[![Layer5](https://img.shields.io/badge/Layer5-0086FF?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI%2BPHBhdGggZD0iTTQgM2g0LjV2MTMuNUgxOVYyMUg0VjN6bTcuNSAwSDE5djRoLTcuNVYzem0wIDZIMTl2NGgtNy41Vjl6Ii8%2BPC9zdmc%2B)](https://github.com/layer5io)
-[![Blowhorn](https://img.shields.io/badge/Blowhorn-1f2937?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI%2BPHBhdGggZD0iTTMgOXY2aDRsNSA0VjVMNyA5SDN6bTEzLjUgM2MwLTEuNzctMS4wMi0zLjI5LTIuNS00LjAzdjguMDVjMS40OC0uNzMgMi41LTIuMjUgMi41LTQuMDJ6TTE0IDMuMjN2Mi4wNmMyLjg5Ljg2IDUgMy41NCA1IDYuNzFzLTIuMTEgNS44NS01IDYuNzF2Mi4wNmM0LjAxLS45MSA3LTQuNDkgNy04Ljc3cy0yLjk5LTcuODYtNy04Ljc3eiIvPjwvc3ZnPg%3D%3D)](https://github.com/blowhorn-ai)
-[![CNCF](https://img.shields.io/badge/CNCF-231F20?style=flat-square&logo=cncf&logoColor=white)](https://www.cncf.io/)
-[![AsyncAPI](https://img.shields.io/badge/AsyncAPI-7C3AED?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTcgMmw0IDQtNCA0Ii8%2BPHBhdGggZD0iTTMgMTF2LTFhNCA0IDAgMCAxIDQtNGgxNCIvPjxwYXRoIGQ9Ik03IDIybC00LTQgNC00Ii8%2BPHBhdGggZD0iTTIxIDEzdjFhNCA0IDAgMCAxLTQgNEgzIi8%2BPC9zdmc%2B)](https://github.com/asyncapi)
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/meshery"><img src="https://github.com/meshery.png?size=80" height="40" alt="Meshery" /></a>
+&nbsp;&nbsp;
+<a href="https://github.com/blowhorn-ai"><img src="https://github.com/blowhorn-ai.png?size=80" height="40" alt="Blowhorn" /></a>
+&nbsp;&nbsp;
+<a href="https://www.cncf.io/"><img src="https://github.com/cncf.png?size=80" height="40" alt="CNCF" /></a>
+&nbsp;&nbsp;
+<a href="https://github.com/asyncapi"><img src="https://github.com/asyncapi.png?size=80" height="40" alt="AsyncAPI" /></a>
 
 </div>
 
@@ -40,11 +40,12 @@
 
 ---
 
-## About
+## 👋 About
 
 Second-year B.Tech ECE student at **IIIT Kalyani** (Class of 2029). I build **backend services, real-time systems, and browser-side processing**, and contribute to **Meshery (CNCF)**, **Layer5 / Blowhorn**, and **AsyncAPI**, fixing security, reliability, and CI bugs with tests.
 
-- 🚢 Two fixes shipped in **[Meshery v1.0.77](https://github.com/meshery/meshery/releases/tag/v1.0.77)** release notes — one in Go (`mesheryctl`) and one in the UI.
+- 🚢 Two fixes shipped in **[Meshery v1.0.77](https://github.com/meshery/meshery/releases/tag/v1.0.77)** release notes: one in Go (`mesheryctl`) and one in the UI.
+- 🧩 Merged a provider-resolution fix in Meshery's `mesheryctl-axi` extension ([#86](https://github.com/meshery-extensions/mesheryctl-axi/pull/86)), closing a user-reported bug.
 - 🔐 Fixed a CSV formula-injection vulnerability and a Cloudflare Access key-rotation bug (valid tokens returning 403) in a production worker.
 - 🏆 Ranked **#137 of 47,924** in GSSoC '26 (top 0.3%).
 
@@ -55,9 +56,61 @@ Second-year B.Tech ECE student at **IIIT Kalyani** (Class of 2029). I build **ba
 
 <div align="center">
 
-<img src="assets/stats.svg?v=2" alt="Key numbers: merged PRs, Layer5 and CNCF contributions, GSSoC rank and problems solved" width="100%"/>
+<img src="assets/stats.svg?v=3" alt="Key numbers: merged PRs, Layer5 and CNCF contributions, GSSoC rank and problems solved" width="100%"/>
 
 </div>
+
+<br/>
+
+---
+
+## 💼 Open-source experience
+
+<table>
+<tr>
+<td width="80" align="center" valign="top">
+  <a href="https://github.com/meshery"><img src="https://github.com/meshery.png?size=112" width="56" alt="Meshery" /></a>
+</td>
+<td valign="top">
+
+**Open-Source Contributor · Meshery (CNCF / Layer5)** &nbsp;·&nbsp; *2026*<br/>
+<sub>mesheryctl · Meshery UI · mesheryctl-axi · Sistent</sub>
+
+- Two fixes in the official **v1.0.77** release: three `mesheryctl environment view` panics (Go, [#23365](https://github.com/meshery/meshery/pull/23365)) and an endless UI spinner on empty component schemas ([#23357](https://github.com/meshery/meshery/pull/23357))
+- Merged the `system status` `provider: null` fix in `mesheryctl-axi` ([#86](https://github.com/meshery-extensions/mesheryctl-axi/pull/86)): config, then token file, then server probe with a 3s timeout, then `Unknown`, covered by tests
+- In review: schema hardening follow-up ([#23363](https://github.com/meshery/meshery/pull/23363)) and two Sistent components ([#1659](https://github.com/layer5io/sistent/pull/1659), [#1660](https://github.com/layer5io/sistent/pull/1660))
+
+</td>
+</tr>
+<tr>
+<td width="80" align="center" valign="top">
+  <a href="https://github.com/blowhorn-ai"><img src="https://github.com/blowhorn-ai.png?size=112" width="56" alt="Blowhorn" /></a>
+</td>
+<td valign="top">
+
+**Open-Source Contributor · Blowhorn** &nbsp;·&nbsp; *2026*<br/>
+<sub>#4 human contributor · 28 commits · 14 PRs merged · Cloudflare Worker security and CI</sub>
+
+- Closed a CSV formula-injection hole in the signups export ([#496](https://github.com/blowhorn-ai/blowhorn-site/pull/496)) and made unsubscribe links safe from mail scanners ([#447](https://github.com/blowhorn-ai/blowhorn-site/pull/447))
+- Fixed Cloudflare Access key rotation rejecting valid tokens with 403 ([#513](https://github.com/blowhorn-ai/blowhorn-site/pull/513))
+- Cleaned up CI, labeler, templates and legacy references across `blowhorn-site` and `tells`
+
+</td>
+</tr>
+<tr>
+<td width="80" align="center" valign="top">
+  <a href="https://github.com/asyncapi"><img src="https://github.com/asyncapi.png?size=112" width="56" alt="AsyncAPI" /></a>
+</td>
+<td valign="top">
+
+**Open-Source Contributor · AsyncAPI** &nbsp;·&nbsp; *2026*<br/>
+<sub>AsyncAPI CLI</sub>
+
+- `asyncapi diff` printed an empty `ValidationError` on unparsable files; fix is in review ([#2313](https://github.com/asyncapi/cli/pull/2313))
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -70,55 +123,75 @@ Second-year B.Tech ECE student at **IIIT Kalyani** (Class of 2029). I build **ba
 | **CSV Formula Injection** | Neutralized `=`, `+`, `-`, `@`, tab, and CR triggers (including after leading whitespace) and quoted bare CRs to prevent row splitting per OWASP CWE-1236. Merged with tests in [blowhorn-site #496](https://github.com/blowhorn-ai/blowhorn-site/pull/496). |
 | **Access Key-Rotation Bug** | Refetched Cloudflare signing certs once on an unknown `kid` instead of failing valid tokens with 403 until the 10-minute cache expired, while still failing closed on invalid keys. Merged in [blowhorn-site #513](https://github.com/blowhorn-ai/blowhorn-site/pull/513). |
 | **`mesheryctl` Runtime Panics** | Fixed three panics in `environment view` (nil API response, empty slice, `TotalCount` mismatch) with table-driven Go unit tests. Shipped in **Meshery v1.0.77** via [meshery #23365](https://github.com/meshery/meshery/pull/23365). |
+| **Provider Resolution** | `system status` printed `provider: null` for Local-provider logins. Added a fail-soft chain (config, token file, `/api/provider` probe with a 3s timeout, `Unknown`) that forwards the auth cookie and is covered by token-file, fallback and timeout tests. Merged in [mesheryctl-axi #86](https://github.com/meshery-extensions/mesheryctl-axi/pull/86). |
 | **Mail-Scanner Unsubscribes** | Split unsubscribe links so `GET` renders a confirmation page and only `POST` mutates state, preventing email security scanners from unsubscribing users. Merged in [blowhorn-site #447](https://github.com/blowhorn-ai/blowhorn-site/pull/447). |
 
 <br/>
 
 **What maintainers said**
 > *"Nice, targeted fix for the key-rotation 403s."* — maintainer review on [blowhorn-site #513](https://github.com/blowhorn-ai/blowhorn-site/pull/513)  
+> *"Nice fix — the fallback hierarchy in resolveProvider is easy to follow, failing soft at each step instead of leaking a raw null into status output…"* — maintainer review on [mesheryctl-axi #86](https://github.com/meshery-extensions/mesheryctl-axi/pull/86)  
 > *"Nice cleanup — this does exactly what it says."* — maintainer review on [tells #28](https://github.com/blowhorn-ai/tells/pull/28)
 
 <br/>
 
 ---
 
-## 💻 Projects
+## 🚀 Featured projects
 
-### 🔒 [EnclavePDF](https://github.com/abhinavkdeval08-design/EnclavePDF) — Zero-egress in-browser PDF compression
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[**Live Demo**](https://enclave-pdf.vercel.app) · ![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Web Workers](https://img.shields.io/badge/Web_Workers-10b981?style=flat-square) ![pdf-lib](https://img.shields.io/badge/pdf--lib-00D4FF?style=flat-square)
+### [🔒 EnclavePDF](https://github.com/abhinavkdeval08-design/EnclavePDF)
+Zero-egress in-browser PDF compression. No backend, no account, no analytics: turn off Wi-Fi and it still compresses.
 
-No backend, no account, no analytics — turn off Wi-Fi and it still compresses. A Web Worker runs image mode (`pdf.js` → `OffscreenCanvas` → JPEG → `pdf-lib`), falls back to lossless mode, and returns the original file if neither shrinks it. ArrayBuffers are transferred rather than copied, and workers terminate after each job.
+- Web Worker pipeline: `pdf.js` → `OffscreenCanvas` → JPEG → `pdf-lib`, with a lossless fallback and the original file returned if nothing shrinks
+- **52% smaller** on a 37-page sample (10.1 MB → 4.9 MB), **85% smaller** on an academic calendar (1.5 MB → 235.7 KB)
+- ArrayBuffers are transferred, not copied, and workers terminate after each job
 
-| Sample File | Mode | Before | After |
-| :--- | :--- | :--- | :--- |
-| 37-page sample PDF | Image · Balanced | 10.1 MB | 4.9 MB (52% smaller) |
-| Academic calendar | Image · Balanced | 1.5 MB | 235.7 KB (85% smaller) |
-| Course syllabus (text-heavy) | Lossless | 696 KB | 695.8 KB |
+<sub>Tested on local files, single run each. Image mode rasterizes pages, so text is no longer selectable.</sub>
 
-<sub>Tested on local files (single run each). Image mode rasterizes pages, so text is no longer selectable. Next: per-page text/scan detection.</sub>
+![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Web Workers](https://img.shields.io/badge/Web_Workers-10b981?style=flat-square) ![pdf-lib](https://img.shields.io/badge/pdf--lib-00D4FF?style=flat-square)
 
-<br/>
+[**Live demo →**](https://enclave-pdf.vercel.app)
 
-### 🎧 Vibrodo — Unified cloud & local audio streaming
+</td>
+<td width="50%" valign="top">
+
+### 🎧 Vibrodo
+Unified cloud and local audio streaming, built with a team of three across IIIT Kalyani and NIT Durgapur.
+
+- Cloud tracks (YouTube Data API v3) and local FLAC, WAV, ALAC and MP3 files in a single queue
+- **Listening rooms** keep devices in sync over WebSockets by reconciling playback drift against server time
+
+<sub>Application code is private. The [architecture write-up](https://github.com/abhinavkdeval08-design/Vibrodo) is public and I am happy to walk through it.</sub>
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-7C3AED?style=flat-square)
 
-Streams cloud tracks (YouTube Data API v3) and local lossless/compressed files (FLAC, WAV, ALAC, MP3) in a single queue. **Listening rooms** keep multiple devices synchronized over WebSockets by reconciling playback drift against server time. Built with a team of three across IIIT Kalyani and NIT Durgapur. <sub>Private repository — architecture walkthrough available on request.</sub>
+[**Architecture →**](https://github.com/abhinavkdeval08-design/Vibrodo)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech stack
 
-| Domain | Stack |
-| :--- | :--- |
-| **Languages** | TypeScript, JavaScript, Python, C++, C, Go (shipped in Meshery CLI) |
-| **Backend** | Node.js, Express, WebSockets, REST & OpenAPI, JWT/OTP auth, Redis, Celery, MongoDB |
-| **Frontend & Mobile** | React, Next.js, React Native, Web Workers |
-| **Cloud & Tooling** | Cloudflare Workers & Access, GitHub Actions, Make, Linux, Git |
-| **Testing** | Node test runner, table-driven Go tests, CI pipelines |
+**Languages**<br/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+
+**Backend & Cloud**<br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" /> <img src="https://img.shields.io/badge/WebSockets-7C3AED?style=for-the-badge" /> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+
+**Frontend & Mobile**<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+
+**Tooling**<br/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=gnu&logoColor=white" />
 
 <br/>
 
@@ -129,19 +202,18 @@ Streams cloud tracks (YouTube Data API v3) and local lossless/compressed files (
 
 <br/>
 
-### 🎺 Blowhorn / Layer5 / Meshery (20 merged)
+### 🎺 Blowhorn / Layer5 / Meshery (21 merged)
 
 | Area | Impact | PRs |
 | :--- | :--- | :--- |
 | 🔐 **Security & reliability** | CSV formula injection closed, unsubscribe made safe from mail scanners, Access key rotation no longer returns 403, fleet tables sort correctly | [#496](https://github.com/blowhorn-ai/blowhorn-site/pull/496) · [#447](https://github.com/blowhorn-ai/blowhorn-site/pull/447) · [#513](https://github.com/blowhorn-ai/blowhorn-site/pull/513) · [#507](https://github.com/blowhorn-ai/blowhorn-site/pull/507) |
-| 🚢 **Meshery core (CNCF)** | Three `mesheryctl environment view` panics fixed, and an endless UI spinner on empty component schemas. Both in v1.0.77. | [#23365](https://github.com/meshery/meshery/pull/23365) · [#23357](https://github.com/meshery/meshery/pull/23357) |
+| 🚢 **Meshery (CNCF)** | Three `mesheryctl environment view` panics fixed and an endless UI spinner on empty component schemas (both in v1.0.77); `mesheryctl-axi system status` no longer prints `provider: null` | [#23365](https://github.com/meshery/meshery/pull/23365) · [#23357](https://github.com/meshery/meshery/pull/23357) · [axi #86](https://github.com/meshery-extensions/mesheryctl-axi/pull/86) |
 | ⚙️ **CI & tooling** | Labeler v5 mapped to the real repo layout, CI fixes for unprivileged VMs and non-standard `make` paths, label-commenter cleaned up | [#321](https://github.com/blowhorn-ai/blowhorn-site/pull/321) · [#379](https://github.com/blowhorn-ai/blowhorn-site/pull/379) · [#330](https://github.com/blowhorn-ai/blowhorn-site/pull/330) · [#332](https://github.com/blowhorn-ai/blowhorn-site/pull/332) · [#357](https://github.com/blowhorn-ai/blowhorn-site/pull/357) |
 | 🧹 **Templates & community health** | Legacy Meshery references removed, orphan template deleted, support routed to `support@blowhorn.ai` | [site #250](https://github.com/blowhorn-ai/blowhorn-site/pull/250) · [#299](https://github.com/blowhorn-ai/blowhorn-site/pull/299) · [#315](https://github.com/blowhorn-ai/blowhorn-site/pull/315) · [tells #16](https://github.com/blowhorn-ai/tells/pull/16) · [#17](https://github.com/blowhorn-ai/tells/pull/17) · [#28](https://github.com/blowhorn-ai/tells/pull/28) |
 | 🎨 **UI & docs** | Accessible dark-mode ink, Open Graph and Twitter cards on docs pages, intro added to Meshery docs | [#476](https://github.com/blowhorn-ai/blowhorn-site/pull/476) · [#478](https://github.com/blowhorn-ai/blowhorn-site/pull/478) · [meshery #22662](https://github.com/meshery/meshery/pull/22662) |
 
 ### 🔍 In review
 
-- **mesheryctl-axi** · [#86](https://github.com/meshery-extensions/mesheryctl-axi/pull/86) (CNCF): `system status` printed `provider: null`. Resolves provider from config, token file, then server (3s timeout), else `Unknown`. Approved, awaiting merge.
 - **Meshery** · [#23363](https://github.com/meshery/meshery/pull/23363) (CNCF): follow-up to #23357 applying reviewer notes (shallow copy of fetched schema and its `properties` map, plus an `Array.isArray` guard). Review feedback addressed, awaiting re-review.
 - **Sistent** · [#1659](https://github.com/layer5io/sistent/pull/1659) FormHelperText, [#1660](https://github.com/layer5io/sistent/pull/1660) SubscriptionTable (CNCF).
 - **AsyncAPI CLI** · [#2313](https://github.com/asyncapi/cli/pull/2313): `asyncapi diff` printed an empty `ValidationError` on unparsable files.

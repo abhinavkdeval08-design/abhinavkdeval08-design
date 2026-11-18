@@ -44,7 +44,9 @@
 
 Second-year B.Tech ECE student at **IIIT Kalyani** (Class of 2029). I build **backend services, real-time systems, and browser-side processing**, and contribute to **Meshery (CNCF)**, **Layer5 / Blowhorn**, and **AsyncAPI**, fixing security, reliability, and CI bugs with tests.
 
+- 🏛️ Official Organization Member of **[@meshery](https://github.com/meshery)** (CNCF).
 - 🚢 Two fixes shipped in **[Meshery v1.0.77](https://github.com/meshery/meshery/releases/tag/v1.0.77)** release notes: one in Go (`mesheryctl`) and one in the UI.
+- ⚙️ Accepted and registered `relationships.meshery.io/v1beta3` relationships in **Meshkit** ([#1166](https://github.com/meshery/meshkit/pull/1166)).
 - 🧩 Merged a provider-resolution fix in Meshery's `mesheryctl-axi` extension ([#86](https://github.com/meshery-extensions/mesheryctl-axi/pull/86)), closing a user-reported bug.
 - 🔐 Fixed a CSV formula-injection vulnerability and a Cloudflare Access key-rotation bug (valid tokens returning 403) in a production worker.
 - 🏆 Ranked **#137 of 47,924** in GSSoC '26 (top 0.3%).
@@ -73,10 +75,11 @@ Second-year B.Tech ECE student at **IIIT Kalyani** (Class of 2029). I build **ba
 </td>
 <td valign="top">
 
-**Open-Source Contributor · Meshery (CNCF / Layer5)** &nbsp;·&nbsp; *2026*<br/>
-<sub>mesheryctl · Meshery UI · mesheryctl-axi · Sistent</sub>
+**Organization Member & Contributor · Meshery (CNCF / Layer5)** &nbsp;·&nbsp; *2026 – Present*<br/>
+<sub>mesheryctl · Meshery UI · Meshkit · mesheryctl-axi · Sistent</sub>
 
 - Two fixes in the official **v1.0.77** release: three `mesheryctl environment view` panics (Go, [#23365](https://github.com/meshery/meshery/pull/23365)) and an endless UI spinner on empty component schemas ([#23357](https://github.com/meshery/meshery/pull/23357))
+- Accepted and registered `relationships.meshery.io/v1beta3` relationships in **Meshkit** microservices framework ([#1166](https://github.com/meshery/meshkit/pull/1166))
 - Merged the `system status` `provider: null` fix in `mesheryctl-axi` ([#86](https://github.com/meshery-extensions/mesheryctl-axi/pull/86)): config, then token file, then server probe with a 3s timeout, then `Unknown`, covered by tests
 - In review: schema hardening follow-up ([#23363](https://github.com/meshery/meshery/pull/23363)) and two Sistent components ([#1659](https://github.com/layer5io/sistent/pull/1659), [#1660](https://github.com/layer5io/sistent/pull/1660))
 
@@ -202,19 +205,18 @@ Unified cloud and local audio streaming, built with a team of three across IIIT 
 
 <br/>
 
-### 🎺 Blowhorn / Layer5 / Meshery (21 merged)
+### 🎺 Blowhorn / Layer5 / Meshery (23 merged)
 
 | Area | Impact | PRs |
 | :--- | :--- | :--- |
 | 🔐 **Security & reliability** | CSV formula injection closed, unsubscribe made safe from mail scanners, Access key rotation no longer returns 403, fleet tables sort correctly | [#496](https://github.com/blowhorn-ai/blowhorn-site/pull/496) · [#447](https://github.com/blowhorn-ai/blowhorn-site/pull/447) · [#513](https://github.com/blowhorn-ai/blowhorn-site/pull/513) · [#507](https://github.com/blowhorn-ai/blowhorn-site/pull/507) |
-| 🚢 **Meshery (CNCF)** | Three `mesheryctl environment view` panics fixed and an endless UI spinner on empty component schemas (both in v1.0.77); `mesheryctl-axi system status` no longer prints `provider: null` | [#23365](https://github.com/meshery/meshery/pull/23365) · [#23357](https://github.com/meshery/meshery/pull/23357) · [axi #86](https://github.com/meshery-extensions/mesheryctl-axi/pull/86) |
+| 🚢 **Meshery (CNCF)** | Three `mesheryctl environment view` panics fixed and an endless UI spinner on empty component schemas (both in v1.0.77); `mesheryctl-axi system status` no longer prints `provider: null` | [#23365](https://github.com/meshery/meshery/pull/23365) · [#23357](https://github.com/meshery/meshery/pull/23357) · [#23363](https://github.com/meshery/meshery/pull/23363) · [meshkit #1166](https://github.com/meshery/meshkit/pull/1166) · [axi #86](https://github.com/meshery-extensions/mesheryctl-axi/pull/86) |
 | ⚙️ **CI & tooling** | Labeler v5 mapped to the real repo layout, CI fixes for unprivileged VMs and non-standard `make` paths, label-commenter cleaned up | [#321](https://github.com/blowhorn-ai/blowhorn-site/pull/321) · [#379](https://github.com/blowhorn-ai/blowhorn-site/pull/379) · [#330](https://github.com/blowhorn-ai/blowhorn-site/pull/330) · [#332](https://github.com/blowhorn-ai/blowhorn-site/pull/332) · [#357](https://github.com/blowhorn-ai/blowhorn-site/pull/357) |
 | 🧹 **Templates & community health** | Legacy Meshery references removed, orphan template deleted, support routed to `support@blowhorn.ai` | [site #250](https://github.com/blowhorn-ai/blowhorn-site/pull/250) · [#299](https://github.com/blowhorn-ai/blowhorn-site/pull/299) · [#315](https://github.com/blowhorn-ai/blowhorn-site/pull/315) · [tells #16](https://github.com/blowhorn-ai/tells/pull/16) · [#17](https://github.com/blowhorn-ai/tells/pull/17) · [#28](https://github.com/blowhorn-ai/tells/pull/28) |
 | 🎨 **UI & docs** | Accessible dark-mode ink, Open Graph and Twitter cards on docs pages, intro added to Meshery docs | [#476](https://github.com/blowhorn-ai/blowhorn-site/pull/476) · [#478](https://github.com/blowhorn-ai/blowhorn-site/pull/478) · [meshery #22662](https://github.com/meshery/meshery/pull/22662) |
 
 ### 🔍 In review
 
-- **Meshery** · [#23363](https://github.com/meshery/meshery/pull/23363) (CNCF): follow-up to #23357 applying reviewer notes (shallow copy of fetched schema and its `properties` map, plus an `Array.isArray` guard). Review feedback addressed, awaiting re-review.
 - **Sistent** · [#1659](https://github.com/layer5io/sistent/pull/1659) FormHelperText, [#1660](https://github.com/layer5io/sistent/pull/1660) SubscriptionTable (CNCF).
 - **AsyncAPI CLI** · [#2313](https://github.com/asyncapi/cli/pull/2313): `asyncapi diff` printed an empty `ValidationError` on unparsable files.
 

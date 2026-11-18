@@ -81,7 +81,8 @@ Second-year B.Tech ECE student at **IIIT Kalyani** (Class of 2029). I build **ba
 - Two fixes in the official **v1.0.77** release: three `mesheryctl environment view` panics (Go, [#23365](https://github.com/meshery/meshery/pull/23365)) and an endless UI spinner on empty component schemas ([#23357](https://github.com/meshery/meshery/pull/23357))
 - Accepted and registered `relationships.meshery.io/v1beta3` relationships in **Meshkit** microservices framework ([#1166](https://github.com/meshery/meshkit/pull/1166))
 - Merged the `system status` `provider: null` fix in `mesheryctl-axi` ([#86](https://github.com/meshery-extensions/mesheryctl-axi/pull/86)): config, then token file, then server probe with a 3s timeout, then `Unknown`, covered by tests
-- In review: schema hardening follow-up ([#23363](https://github.com/meshery/meshery/pull/23363)) and two Sistent components ([#1659](https://github.com/layer5io/sistent/pull/1659), [#1660](https://github.com/layer5io/sistent/pull/1660))
+- Merged UI schema hardening follow-up: shallow-copy and array property guards ([#23363](https://github.com/meshery/meshery/pull/23363))
+- In review: two Sistent components ([#1659](https://github.com/layer5io/sistent/pull/1659), [#1660](https://github.com/layer5io/sistent/pull/1660))
 
 </td>
 </tr>
@@ -132,9 +133,10 @@ Second-year B.Tech ECE student at **IIIT Kalyani** (Class of 2029). I build **ba
 <br/>
 
 **What maintainers said**
-> *"Nice, targeted fix for the key-rotation 403s."* — maintainer review on [blowhorn-site #513](https://github.com/blowhorn-ai/blowhorn-site/pull/513)  
+> *"Approved. This closes the loop on the follow-up cleanly... the properties map copy means assignments land on the copy, not the fetched component object... Nice work following through on both review notes."* — maintainer review on [meshery #23363](https://github.com/meshery/meshery/pull/23363)  
+> *"Thanks for the thorough fix... The v1beta3 case in getEntity decodes into the v1beta3 struct first, then converts losslessly, failing loudly on lost fields instead of dropping them."* — maintainer review on [meshkit #1166](https://github.com/meshery/meshkit/pull/1166)  
 > *"Nice fix — the fallback hierarchy in resolveProvider is easy to follow, failing soft at each step instead of leaking a raw null into status output…"* — maintainer review on [mesheryctl-axi #86](https://github.com/meshery-extensions/mesheryctl-axi/pull/86)  
-> *"Nice cleanup — this does exactly what it says."* — maintainer review on [tells #28](https://github.com/blowhorn-ai/tells/pull/28)
+> *"Nice, targeted fix for the key-rotation 403s."* — maintainer review on [blowhorn-site #513](https://github.com/blowhorn-ai/blowhorn-site/pull/513)
 
 <br/>
 

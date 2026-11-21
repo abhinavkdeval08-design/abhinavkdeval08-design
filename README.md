@@ -18,6 +18,10 @@
 
 <br/><br/>
 
+<a href="https://github.com/kubernetes-sigs/kueue">
+  <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" height="40" alt="Kubernetes" />
+</a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/layer5io">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/layer5io/layer5/master/.github/assets/images/layer5/layer5-light-no-trim.svg">
@@ -42,16 +46,17 @@
 
 ## 👋 About
 
-Second-year B.Tech ECE student at **IIIT Kalyani** (Class of 2029). I build **backend services, real-time systems, and browser-side processing**, and contribute to **Meshery (CNCF)**, **Layer5 / Blowhorn**, and **AsyncAPI**, fixing security, reliability, and CI bugs with tests.
+Second-year B.Tech ECE student at **IIIT Kalyani** (Class of 2029). I build **backend services, real-time systems, and cloud-native infrastructure**, and contribute across **Kubernetes (CNCF)**, **Meshery**, **Blowhorn**, and **AsyncAPI**, fixing runtime safety, security vulnerabilities, and scheduling bugs with exhaustive tests.
 
-- 🏛️ Official Organization Member of **[@meshery](https://github.com/meshery)** (CNCF).
+- 🏛️ Official Organization Member of **[@meshery](https://github.com/meshery)** (CNCF) and **[@blowhorn-ai](https://github.com/blowhorn-ai)**.
+- ⚓ Contributing batch scheduling controllers to **Kubernetes Special Interest Groups** ([kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue)).
 - 🚢 Two fixes shipped in **[Meshery v1.0.77](https://github.com/meshery/meshery/releases/tag/v1.0.77)** release notes: one in Go (`mesheryctl`) and one in the UI.
 - ⚙️ Accepted and registered `relationships.meshery.io/v1beta3` relationships in **Meshkit** ([#1166](https://github.com/meshery/meshkit/pull/1166)).
 - 🧩 Merged a provider-resolution fix in Meshery's `mesheryctl-axi` extension ([#86](https://github.com/meshery-extensions/mesheryctl-axi/pull/86)), closing a user-reported bug.
-- 🔐 Fixed a CSV formula-injection vulnerability and a Cloudflare Access key-rotation bug (valid tokens returning 403) in a production worker.
+- 🔐 Fixed a CSV formula-injection vulnerability and a Cloudflare Access key-rotation bug (valid tokens returning 403) in production workers.
 - 🏆 Ranked **#137 of 47,924** in GSSoC '26 (top 0.3%).
 
-> **🎯 Looking for:** Backend or real-time systems internships, and a GSoC 2027 slot with Layer5/Meshery or AsyncAPI.  
+> **🎯 Looking for:** Backend or cloud-native systems internships, and a GSoC 2027 slot with Kubernetes/Meshery or AsyncAPI.  
 > **🕒 Availability:** IST (UTC+5:30) · online evenings and weekends · async-friendly
 
 <br/>
@@ -71,6 +76,21 @@ Second-year B.Tech ECE student at **IIIT Kalyani** (Class of 2029). I build **ba
 <table>
 <tr>
 <td width="80" align="center" valign="top">
+  <a href="https://github.com/kubernetes-sigs/kueue"><img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="56" alt="Kubernetes" /></a>
+</td>
+<td valign="top">
+
+**Open-Source Contributor · Kubernetes (CNCF)** &nbsp;·&nbsp; *2026 – Present*<br/>
+<sub>kubernetes-sigs/kueue · kubernetes/kubernetes</sub>
+
+- **Topology-Aware Scheduling (TAS):** Hardened `podIndexOffsetFromAnnotation` in Kueue's `topology_ungater.go` to reject negative numbers and prevent 32-bit integer overflow wrap-around ([#19263](https://github.com/kubernetes-sigs/kueue/pull/19263))
+- **Release Automation:** Patched cherry-pick script `hack/cherry_pick_pull.sh` to handle inline release-note fences ([#19209](https://github.com/kubernetes-sigs/kueue/pull/19209)), backported to `release-0.19` ([#19246](https://github.com/kubernetes-sigs/kueue/pull/19246)) and `release-0.20` ([#19245](https://github.com/kubernetes-sigs/kueue/pull/19245))
+- **Kubectl Core Investigation:** Reported silent key-dropping in `kubectl create secret/configmap --from-env-file` when lines exceed 64 KiB due to `bufio.NewScanner` buffer limits
+
+</td>
+</tr>
+<tr>
+<td width="80" align="center" valign="top">
   <a href="https://github.com/meshery"><img src="https://github.com/meshery.png?size=112" width="56" alt="Meshery" /></a>
 </td>
 <td valign="top">
@@ -81,6 +101,7 @@ Second-year B.Tech ECE student at **IIIT Kalyani** (Class of 2029). I build **ba
 - Two fixes in the official **v1.0.77** release: three `mesheryctl environment view` panics (Go, [#23365](https://github.com/meshery/meshery/pull/23365)) and an endless UI spinner on empty component schemas ([#23357](https://github.com/meshery/meshery/pull/23357))
 - Accepted and registered `relationships.meshery.io/v1beta3` relationships in **Meshkit** microservices framework ([#1166](https://github.com/meshery/meshkit/pull/1166))
 - Merged the `system status` `provider: null` fix in `mesheryctl-axi` ([#86](https://github.com/meshery-extensions/mesheryctl-axi/pull/86)): config, then token file, then server probe with a 3s timeout, then `Unknown`, covered by tests
+- Authored the human-contributor onboarding guide for the pre-landing **No-Mistakes Quality Gate** ([#24081](https://github.com/meshery/meshery/pull/24081))
 - Merged UI schema hardening follow-up: shallow-copy and array property guards ([#23363](https://github.com/meshery/meshery/pull/23363))
 - In review: two Sistent components ([#1659](https://github.com/layer5io/sistent/pull/1659), [#1660](https://github.com/layer5io/sistent/pull/1660))
 
@@ -92,7 +113,7 @@ Second-year B.Tech ECE student at **IIIT Kalyani** (Class of 2029). I build **ba
 </td>
 <td valign="top">
 
-**Open-Source Contributor · Blowhorn** &nbsp;·&nbsp; *2026*<br/>
+**Organization Member & Contributor · Blowhorn** &nbsp;·&nbsp; *2026 – Present*<br/>
 <sub>#4 human contributor · 28 commits · 14 PRs merged · Cloudflare Worker security and CI</sub>
 
 - Closed a CSV formula-injection hole in the signups export ([#496](https://github.com/blowhorn-ai/blowhorn-site/pull/496)) and made unsubscribe links safe from mail scanners ([#447](https://github.com/blowhorn-ai/blowhorn-site/pull/447))
@@ -124,16 +145,19 @@ Second-year B.Tech ECE student at **IIIT Kalyani** (Class of 2029). I build **ba
 
 | Focus | Engineering Impact & Proof |
 | :--- | :--- |
+| **K8s Topology Scheduling** | Prevented negative ranks and 32-bit integer overflow in Kueue's `topology_ungater` by bounds-checking `podIndexOffset` annotations. Merged with unit tests in [kueue #19263](https://github.com/kubernetes-sigs/kueue/pull/19263). |
 | **CSV Formula Injection** | Neutralized `=`, `+`, `-`, `@`, tab, and CR triggers (including after leading whitespace) and quoted bare CRs to prevent row splitting per OWASP CWE-1236. Merged with tests in [blowhorn-site #496](https://github.com/blowhorn-ai/blowhorn-site/pull/496). |
 | **Access Key-Rotation Bug** | Refetched Cloudflare signing certs once on an unknown `kid` instead of failing valid tokens with 403 until the 10-minute cache expired, while still failing closed on invalid keys. Merged in [blowhorn-site #513](https://github.com/blowhorn-ai/blowhorn-site/pull/513). |
 | **`mesheryctl` Runtime Panics** | Fixed three panics in `environment view` (nil API response, empty slice, `TotalCount` mismatch) with table-driven Go unit tests. Shipped in **Meshery v1.0.77** via [meshery #23365](https://github.com/meshery/meshery/pull/23365). |
 | **Provider Resolution** | `system status` printed `provider: null` for Local-provider logins. Added a fail-soft chain (config, token file, `/api/provider` probe with a 3s timeout, `Unknown`) that forwards the auth cookie and is covered by token-file, fallback and timeout tests. Merged in [mesheryctl-axi #86](https://github.com/meshery-extensions/mesheryctl-axi/pull/86). |
+| **Quality Gate Specifications** | Documented human onboarding guide, 9-stage pipeline breakdown, attestation requirements, and branch synchronization for the No-Mistakes CI gate. Merged in [meshery #24081](https://github.com/meshery/meshery/pull/24081). |
 | **Mail-Scanner Unsubscribes** | Split unsubscribe links so `GET` renders a confirmation page and only `POST` mutates state, preventing email security scanners from unsubscribing users. Merged in [blowhorn-site #447](https://github.com/blowhorn-ai/blowhorn-site/pull/447). |
 
 <br/>
 
 **What maintainers said**
 > *"Approved. This closes the loop on the follow-up cleanly... the properties map copy means assignments land on the copy, not the fetched component object... Nice work following through on both review notes."* — maintainer review on [meshery #23363](https://github.com/meshery/meshery/pull/23363)  
+> *"Thanks for addressing the last round so quickly, the gate opening the pull request itself and the substitute-the-repository note are both in... approved from my side."* — maintainer review on [meshery #24081](https://github.com/meshery/meshery/pull/24081)  
 > *"Thanks for the thorough fix... The v1beta3 case in getEntity decodes into the v1beta3 struct first, then converts losslessly, failing loudly on lost fields instead of dropping them."* — maintainer review on [meshkit #1166](https://github.com/meshery/meshkit/pull/1166)  
 > *"Nice fix — the fallback hierarchy in resolveProvider is easy to follow, failing soft at each step instead of leaking a raw null into status output…"* — maintainer review on [mesheryctl-axi #86](https://github.com/meshery-extensions/mesheryctl-axi/pull/86)  
 > *"Nice, targeted fix for the key-rotation 403s."* — maintainer review on [blowhorn-site #513](https://github.com/blowhorn-ai/blowhorn-site/pull/513)
@@ -190,13 +214,13 @@ Unified cloud and local audio streaming, built with a team of three across IIIT 
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
 
 **Backend & Cloud**<br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" /> <img src="https://img.shields.io/badge/WebSockets-7C3AED?style=for-the-badge" /> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" /> <img src="https://img.shields.io/badge/WebSockets-7C3AED?style=for-the-badge" /> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 
 **Frontend & Mobile**<br/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 
 **Tooling**<br/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=gnu&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=gnu&logoColor=white" />
 
 <br/>
 
@@ -207,12 +231,19 @@ Unified cloud and local audio streaming, built with a team of three across IIIT 
 
 <br/>
 
-### 🎺 Blowhorn / Layer5 / Meshery (23 merged)
+### ⚓ Kubernetes / CNCF (4 PRs)
+
+| Area | Impact | PRs |
+| :--- | :--- | :--- |
+| 🚢 **Kueue (Batch Scheduling)** | Prevented negative rank shifts and 32-bit integer overflow in topology ungater | [#19263](https://github.com/kubernetes-sigs/kueue/pull/19263) |
+| ⚙️ **Release Automation** | Fixed inline release-note fence parsing in cherry-pick script; backported to release-0.19 & release-0.20 | [#19209](https://github.com/kubernetes-sigs/kueue/pull/19209) · [#19246](https://github.com/kubernetes-sigs/kueue/pull/19246) · [#19245](https://github.com/kubernetes-sigs/kueue/pull/19245) |
+
+### 🎺 Blowhorn / Layer5 / Meshery (24 merged)
 
 | Area | Impact | PRs |
 | :--- | :--- | :--- |
 | 🔐 **Security & reliability** | CSV formula injection closed, unsubscribe made safe from mail scanners, Access key rotation no longer returns 403, fleet tables sort correctly | [#496](https://github.com/blowhorn-ai/blowhorn-site/pull/496) · [#447](https://github.com/blowhorn-ai/blowhorn-site/pull/447) · [#513](https://github.com/blowhorn-ai/blowhorn-site/pull/513) · [#507](https://github.com/blowhorn-ai/blowhorn-site/pull/507) |
-| 🚢 **Meshery (CNCF)** | Three `mesheryctl environment view` panics fixed and an endless UI spinner on empty component schemas (both in v1.0.77); `mesheryctl-axi system status` no longer prints `provider: null` | [#23365](https://github.com/meshery/meshery/pull/23365) · [#23357](https://github.com/meshery/meshery/pull/23357) · [#23363](https://github.com/meshery/meshery/pull/23363) · [meshkit #1166](https://github.com/meshery/meshkit/pull/1166) · [axi #86](https://github.com/meshery-extensions/mesheryctl-axi/pull/86) |
+| 🚢 **Meshery (CNCF)** | Three `mesheryctl environment view` panics fixed and an endless UI spinner on empty component schemas (both in v1.0.77); `mesheryctl-axi system status` no longer prints `provider: null`; No-Mistakes CI quality gate onboarding guide merged | [#23365](https://github.com/meshery/meshery/pull/23365) · [#23357](https://github.com/meshery/meshery/pull/23357) · [#23363](https://github.com/meshery/meshery/pull/23363) · [#24081](https://github.com/meshery/meshery/pull/24081) · [meshkit #1166](https://github.com/meshery/meshkit/pull/1166) · [axi #86](https://github.com/meshery-extensions/mesheryctl-axi/pull/86) |
 | ⚙️ **CI & tooling** | Labeler v5 mapped to the real repo layout, CI fixes for unprivileged VMs and non-standard `make` paths, label-commenter cleaned up | [#321](https://github.com/blowhorn-ai/blowhorn-site/pull/321) · [#379](https://github.com/blowhorn-ai/blowhorn-site/pull/379) · [#330](https://github.com/blowhorn-ai/blowhorn-site/pull/330) · [#332](https://github.com/blowhorn-ai/blowhorn-site/pull/332) · [#357](https://github.com/blowhorn-ai/blowhorn-site/pull/357) |
 | 🧹 **Templates & community health** | Legacy Meshery references removed, orphan template deleted, support routed to `support@blowhorn.ai` | [site #250](https://github.com/blowhorn-ai/blowhorn-site/pull/250) · [#299](https://github.com/blowhorn-ai/blowhorn-site/pull/299) · [#315](https://github.com/blowhorn-ai/blowhorn-site/pull/315) · [tells #16](https://github.com/blowhorn-ai/tells/pull/16) · [#17](https://github.com/blowhorn-ai/tells/pull/17) · [#28](https://github.com/blowhorn-ai/tells/pull/28) |
 | 🎨 **UI & docs** | Accessible dark-mode ink, Open Graph and Twitter cards on docs pages, intro added to Meshery docs | [#476](https://github.com/blowhorn-ai/blowhorn-site/pull/476) · [#478](https://github.com/blowhorn-ai/blowhorn-site/pull/478) · [meshery #22662](https://github.com/meshery/meshery/pull/22662) |

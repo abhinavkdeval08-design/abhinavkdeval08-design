@@ -50,16 +50,12 @@
 
 ## 👋 About
 
-Second-year B.Tech ECE student at **IIIT Kalyani** (Class of 2029). I build **backend services, real-time systems, and cloud-native infrastructure**, and contribute across **Kubernetes (CNCF)**, **Runtime Conditions**, **Meshery**, **Blowhorn**, and **AsyncAPI**, fixing runtime safety, security vulnerabilities, and scheduling bugs with exhaustive tests.
+Second-year B.Tech ECE student at **IIIT Kalyani** (Class of 2029). I build **backend services, real-time systems, and cloud-native infrastructure**, contributing across **Kubernetes (CNCF)**, **Runtime Conditions**, **Meshery**, **Blowhorn**, and **AsyncAPI**. My work focuses on runtime safety, memory bounds, API resilience, and concurrency with exhaustive test coverage.
 
-- 🏛️ Official Organization Member of **[@meshery](https://github.com/meshery)** (CNCF), **[@runtimeconditions](https://github.com/runtimeconditions)** (CNCF TAG), and **[@blowhorn-ai](https://github.com/blowhorn-ai)**.
-- 📜 Co-Authoring **Runtime Conditions Profiles** specification ([cncf/toc#2285](https://github.com/cncf/toc/issues/2285)) under CNCF TAG App Delivery (Section 8: AI Workload Profiles).
-- ⚓ Contributing batch scheduling controllers to **Kubernetes Special Interest Groups** ([kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue)).
-- 🚢 Two fixes shipped in **[Meshery v1.0.77](https://github.com/meshery/meshery/releases/tag/v1.0.77)** release notes: one in Go (`mesheryctl`) and one in the UI.
-- ⚙️ Accepted and registered `relationships.meshery.io/v1beta3` relationships in **Meshkit** ([#1166](https://github.com/meshery/meshkit/pull/1166)).
-- 🧩 Merged a provider-resolution fix in Meshery's `mesheryctl-axi` extension ([#86](https://github.com/meshery-extensions/mesheryctl-axi/pull/86)), closing a user-reported bug.
-- 🔐 Fixed a CSV formula-injection vulnerability and a Cloudflare Access key-rotation bug (valid tokens returning 403) in production workers.
-- 🏆 Ranked **#137 of 47,924** in GSSoC '26 (top 0.3%).
+- 🏛️ **Organization Member:** [@meshery](https://github.com/meshery) (CNCF), [@runtimeconditions](https://github.com/runtimeconditions) (CNCF TAG), and [@blowhorn-ai](https://github.com/blowhorn-ai).
+- 📜 **CNCF Whitepaper Co-Author:** Authoring Section 8 (*AI Workload Profiles*) for the Runtime Conditions specification under [cncf/toc#2285](https://github.com/cncf/toc/issues/2285).
+- 🚢 **Production Fixes Shipped:** Core scheduler safety in Kubernetes (`kueue`), CLI runtime panics in official **Meshery v1.0.77**, and auth/security patches in Blowhorn production workers.
+- 🏆 **Ranked #137 of 47,924** in GSSoC '26 (top 0.3%).
 
 > **🎯 Looking for:** Backend or cloud-native systems internships, and a GSoC 2027 slot with Kubernetes/Meshery or AsyncAPI.  
 > **🕒 Availability:** IST (UTC+5:30) · online evenings and weekends · async-friendly
@@ -103,9 +99,9 @@ Second-year B.Tech ECE student at **IIIT Kalyani** (Class of 2029). I build **ba
 **Organization Member & Whitepaper Co-Author · Runtime Conditions (CNCF TAG)** &nbsp;·&nbsp; *2026 – Present*<br/>
 <sub>rc-cli · runtimeconditions/spec · cncf/toc#2285</sub>
 
-- **CNCF Profiles Specification:** Authoring Section 8 (*AI workload example: vector search and model serving*) for the Runtime Conditions specification tracking under [cncf/toc#2285](https://github.com/cncf/toc/issues/2285)
-- **Isolated Profile Validation:** Landed workspace-isolated profile path resolution in `rc-cli` ([#24](https://github.com/runtimeconditions/rc-cli/pull/24)) merged by CNCF Ambassador Colin J Lacy, quoted as precedent in [runtimeconditions/extensions#66](https://github.com/runtimeconditions/extensions/issues/66)
-- **Dynamic Context Injection:** Landed `RC_COMMAND_PREFIX` ([#26](https://github.com/runtimeconditions/rc-cli/pull/26)) enabling language profilers (TypeScript, Java, Python) to adapt usage diagnostics to user-invoked CLI command paths
+- **CNCF Specification Co-Author:** Authoring Section 8 (*AI workload example: vector search and model serving*) for the Runtime Conditions Profiles spec under [cncf/toc#2285](https://github.com/cncf/toc/issues/2285)
+- **Profile Boundary Isolation:** Merged single-spec resolution in `rc-cli` ([#24](https://github.com/runtimeconditions/rc-cli/pull/24)) by CNCF Ambassador Colin J Lacy, quoted as architectural precedent in [extensions#66](https://github.com/runtimeconditions/extensions/issues/66)
+- **Subprocess Environment Injection:** Landed `RC_COMMAND_PREFIX` ([#26](https://github.com/runtimeconditions/rc-cli/pull/26) / [#17](https://github.com/runtimeconditions/rc-cli/issues/17)) enabling polyglot language profilers (TypeScript, Java, Python) to adapt CLI diagnostic suggestions to the user's exact invocation
 
 </td>
 </tr>
@@ -149,9 +145,9 @@ Second-year B.Tech ECE student at **IIIT Kalyani** (Class of 2029). I build **ba
 <td valign="top">
 
 **Open-Source Contributor · AsyncAPI** &nbsp;·&nbsp; *2026*<br/>
-<sub>AsyncAPI CLI</sub>
+<sub>asyncapi/cli</sub>
 
-- `asyncapi diff` printed an empty `ValidationError` on unparsable files; fix is in review ([#2313](https://github.com/asyncapi/cli/pull/2313))
+- **CLI Diagnostic Transparency:** Fixed `asyncapi diff` silently emitting an empty `ValidationError:` on unparsable documents by correcting the error classification to `parser-error`, eliminating double-wrapping in the top-level handler, and ensuring fallback diagnostics ([#2313](https://github.com/asyncapi/cli/pull/2313) fixes [#2222](https://github.com/asyncapi/cli/issues/2222))
 
 </td>
 </tr>
@@ -170,6 +166,7 @@ Second-year B.Tech ECE student at **IIIT Kalyani** (Class of 2029). I build **ba
 | **CSV Formula Injection** | Neutralized `=`, `+`, `-`, `@`, tab, and CR triggers (including after leading whitespace) and quoted bare CRs to prevent row splitting per OWASP CWE-1236. Merged with tests in [blowhorn-site #496](https://github.com/blowhorn-ai/blowhorn-site/pull/496). |
 | **Access Key-Rotation Bug** | Refetched Cloudflare signing certs once on an unknown `kid` instead of failing valid tokens with 403 until the 10-minute cache expired, while still failing closed on invalid keys. Merged in [blowhorn-site #513](https://github.com/blowhorn-ai/blowhorn-site/pull/513). |
 | **`mesheryctl` Runtime Panics** | Fixed three panics in `environment view` (nil API response, empty slice, `TotalCount` mismatch) with table-driven Go unit tests. Shipped in **Meshery v1.0.77** via [meshery #23365](https://github.com/meshery/meshery/pull/23365). |
+| **Parser Error Diagnostics** | Eliminated empty `ValidationError:` on malformed specs in `asyncapi diff` by routing parser payloads and preventing error double-wrapping. In review with test fixtures in [cli #2313](https://github.com/asyncapi/cli/pull/2313). |
 | **Provider Resolution** | `system status` printed `provider: null` for Local-provider logins. Added a fail-soft chain (config, token file, `/api/provider` probe with a 3s timeout, `Unknown`) that forwards the auth cookie and is covered by token-file, fallback and timeout tests. Merged in [mesheryctl-axi #86](https://github.com/meshery-extensions/mesheryctl-axi/pull/86). |
 | **Quality Gate Specifications** | Documented human onboarding guide, 9-stage pipeline breakdown, attestation requirements, and branch synchronization for the No-Mistakes CI gate. Merged in [meshery #24081](https://github.com/meshery/meshery/pull/24081). |
 | **Mail-Scanner Unsubscribes** | Split unsubscribe links so `GET` renders a confirmation page and only `POST` mutates state, preventing email security scanners from unsubscribing users. Merged in [blowhorn-site #447](https://github.com/blowhorn-ai/blowhorn-site/pull/447). |

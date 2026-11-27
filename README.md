@@ -22,6 +22,10 @@
   <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" height="40" alt="Kubernetes" />
 </a>
 &nbsp;&nbsp;&nbsp;
+<a href="https://github.com/runtimeconditions">
+  <img src="https://github.com/runtimeconditions.png?size=80" height="40" alt="Runtime Conditions" />
+</a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/layer5io">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/layer5io/layer5/master/.github/assets/images/layer5/layer5-light-no-trim.svg">
@@ -46,9 +50,10 @@
 
 ## 👋 About
 
-Second-year B.Tech ECE student at **IIIT Kalyani** (Class of 2029). I build **backend services, real-time systems, and cloud-native infrastructure**, and contribute across **Kubernetes (CNCF)**, **Meshery**, **Blowhorn**, and **AsyncAPI**, fixing runtime safety, security vulnerabilities, and scheduling bugs with exhaustive tests.
+Second-year B.Tech ECE student at **IIIT Kalyani** (Class of 2029). I build **backend services, real-time systems, and cloud-native infrastructure**, and contribute across **Kubernetes (CNCF)**, **Runtime Conditions**, **Meshery**, **Blowhorn**, and **AsyncAPI**, fixing runtime safety, security vulnerabilities, and scheduling bugs with exhaustive tests.
 
-- 🏛️ Official Organization Member of **[@meshery](https://github.com/meshery)** (CNCF) and **[@blowhorn-ai](https://github.com/blowhorn-ai)**.
+- 🏛️ Official Organization Member of **[@meshery](https://github.com/meshery)** (CNCF), **[@runtimeconditions](https://github.com/runtimeconditions)** (CNCF TAG), and **[@blowhorn-ai](https://github.com/blowhorn-ai)**.
+- 📜 Co-Authoring **Runtime Conditions Profiles** specification ([cncf/toc#2285](https://github.com/cncf/toc/issues/2285)) under CNCF TAG App Delivery (Section 8: AI Workload Profiles).
 - ⚓ Contributing batch scheduling controllers to **Kubernetes Special Interest Groups** ([kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue)).
 - 🚢 Two fixes shipped in **[Meshery v1.0.77](https://github.com/meshery/meshery/releases/tag/v1.0.77)** release notes: one in Go (`mesheryctl`) and one in the UI.
 - ⚙️ Accepted and registered `relationships.meshery.io/v1beta3` relationships in **Meshkit** ([#1166](https://github.com/meshery/meshkit/pull/1166)).
@@ -86,6 +91,21 @@ Second-year B.Tech ECE student at **IIIT Kalyani** (Class of 2029). I build **ba
 - **Topology-Aware Scheduling (TAS):** Hardened `podIndexOffsetFromAnnotation` in Kueue's `topology_ungater.go` to reject negative numbers and prevent 32-bit integer overflow wrap-around ([#19263](https://github.com/kubernetes-sigs/kueue/pull/19263))
 - **Release Automation:** Patched cherry-pick script `hack/cherry_pick_pull.sh` to handle inline release-note fences ([#19209](https://github.com/kubernetes-sigs/kueue/pull/19209)), backported to `release-0.19` ([#19246](https://github.com/kubernetes-sigs/kueue/pull/19246)) and `release-0.20` ([#19245](https://github.com/kubernetes-sigs/kueue/pull/19245))
 - **Kubectl Core Investigation:** Reported silent key-dropping in `kubectl create secret/configmap --from-env-file` when lines exceed 64 KiB due to `bufio.NewScanner` buffer limits
+
+</td>
+</tr>
+<tr>
+<td width="80" align="center" valign="top">
+  <a href="https://github.com/runtimeconditions"><img src="https://github.com/runtimeconditions.png?size=112" width="56" alt="Runtime Conditions" /></a>
+</td>
+<td valign="top">
+
+**Organization Member & Whitepaper Co-Author · Runtime Conditions (CNCF TAG)** &nbsp;·&nbsp; *2026 – Present*<br/>
+<sub>rc-cli · runtimeconditions/spec · cncf/toc#2285</sub>
+
+- **CNCF Profiles Specification:** Authoring Section 8 (*AI workload example: vector search and model serving*) for the Runtime Conditions specification tracking under [cncf/toc#2285](https://github.com/cncf/toc/issues/2285)
+- **Isolated Profile Validation:** Landed workspace-isolated profile path resolution in `rc-cli` ([#24](https://github.com/runtimeconditions/rc-cli/pull/24)) merged by CNCF Ambassador Colin J Lacy, quoted as precedent in [runtimeconditions/extensions#66](https://github.com/runtimeconditions/extensions/issues/66)
+- **Dynamic Context Injection:** Landed `RC_COMMAND_PREFIX` ([#26](https://github.com/runtimeconditions/rc-cli/pull/26)) enabling language profilers (TypeScript, Java, Python) to adapt usage diagnostics to user-invoked CLI command paths
 
 </td>
 </tr>
@@ -146,6 +166,7 @@ Second-year B.Tech ECE student at **IIIT Kalyani** (Class of 2029). I build **ba
 | Focus | Engineering Impact & Proof |
 | :--- | :--- |
 | **K8s Topology Scheduling** | Prevented negative ranks and 32-bit integer overflow in Kueue's `topology_ungater` by bounds-checking `podIndexOffset` annotations. Merged with unit tests in [kueue #19263](https://github.com/kubernetes-sigs/kueue/pull/19263). |
+| **Runtime Profile Isolation** | Bound profile search to user workspaces to isolate CLI from host filesystem leakage. Merged with unit tests in [rc-cli #24](https://github.com/runtimeconditions/rc-cli/pull/24). |
 | **CSV Formula Injection** | Neutralized `=`, `+`, `-`, `@`, tab, and CR triggers (including after leading whitespace) and quoted bare CRs to prevent row splitting per OWASP CWE-1236. Merged with tests in [blowhorn-site #496](https://github.com/blowhorn-ai/blowhorn-site/pull/496). |
 | **Access Key-Rotation Bug** | Refetched Cloudflare signing certs once on an unknown `kid` instead of failing valid tokens with 403 until the 10-minute cache expired, while still failing closed on invalid keys. Merged in [blowhorn-site #513](https://github.com/blowhorn-ai/blowhorn-site/pull/513). |
 | **`mesheryctl` Runtime Panics** | Fixed three panics in `environment view` (nil API response, empty slice, `TotalCount` mismatch) with table-driven Go unit tests. Shipped in **Meshery v1.0.77** via [meshery #23365](https://github.com/meshery/meshery/pull/23365). |
@@ -156,6 +177,7 @@ Second-year B.Tech ECE student at **IIIT Kalyani** (Class of 2029). I build **ba
 <br/>
 
 **What maintainers said**
+> *"Approved. Merging... quoting PR #24 from @abhinavkdeval08-design: the profile path resolution ensures clean isolation between user workspaces and system tooling..."* — Colin J Lacy (CNCF Ambassador, Cisco) in [extensions #66](https://github.com/runtimeconditions/extensions/issues/66)  
 > *"Approved. This closes the loop on the follow-up cleanly... the properties map copy means assignments land on the copy, not the fetched component object... Nice work following through on both review notes."* — maintainer review on [meshery #23363](https://github.com/meshery/meshery/pull/23363)  
 > *"Thanks for addressing the last round so quickly, the gate opening the pull request itself and the substitute-the-repository note are both in... approved from my side."* — maintainer review on [meshery #24081](https://github.com/meshery/meshery/pull/24081)  
 > *"Thanks for the thorough fix... The v1beta3 case in getEntity decodes into the v1beta3 struct first, then converts losslessly, failing loudly on lost fields instead of dropping them."* — maintainer review on [meshkit #1166](https://github.com/meshery/meshkit/pull/1166)  
@@ -231,10 +253,11 @@ Unified cloud and local audio streaming, built with a team of three across IIIT 
 
 <br/>
 
-### ⚓ Kubernetes / CNCF (4 PRs)
+### ⚓ Kubernetes / CNCF / Runtime Conditions (6 PRs & Specs)
 
-| Area | Impact | PRs |
+| Area | Impact | PRs & Artifacts |
 | :--- | :--- | :--- |
+| 📜 **Runtime Conditions (CNCF TAG)** | Co-authoring Section 8 (AI Workloads) in CNCF Whitepaper; workspace-isolated profile resolution merged in rc-cli | [cncf/toc#2285](https://github.com/cncf/toc/issues/2285) · [rc-cli #24](https://github.com/runtimeconditions/rc-cli/pull/24) · [rc-cli #26](https://github.com/runtimeconditions/rc-cli/pull/26) |
 | 🚢 **Kueue (Batch Scheduling)** | Prevented negative rank shifts and 32-bit integer overflow in topology ungater | [#19263](https://github.com/kubernetes-sigs/kueue/pull/19263) |
 | ⚙️ **Release Automation** | Fixed inline release-note fence parsing in cherry-pick script; backported to release-0.19 & release-0.20 | [#19209](https://github.com/kubernetes-sigs/kueue/pull/19209) · [#19246](https://github.com/kubernetes-sigs/kueue/pull/19246) · [#19245](https://github.com/kubernetes-sigs/kueue/pull/19245) |
 
